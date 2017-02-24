@@ -10,21 +10,22 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 
 ### Configuração do Git
 
-1. Confirgurar o GitHub USER
++ navegar na Git Bash para a pasta onde querem o vosso repositorio instalado fazem:
+
+```gitshell
+git clone https://github.com/ESADCR/AP1617
+```
+
++ Configurar o GitHub USER - atribuindo a esse repositorio
 
 ```gitshell
 git config user.name "USER.NAME"
 
 ```
 
-2. Depois de navegarem na Git Bash para a pasta onde querem o vosso repositorio instalado fazem:
++ Posteriormente podem navegar para a pasta do vosso trabalho dentro dessa, fazer as alterações que quiserem.
 
-```gitshell
-git clone https://github.com/ESADCR/AP1617
-```
-3. Posteriormente podem navegar para a pasta do vosso trabalho dentro dessa, fazer as alterações que quiserem.
-
-4. Sempre que gravam deverão repetir o GIT MANTRA abaixo:
++ Sempre que gravam deverão repetir o GIT MANTRA abaixo:
 
 ### Git Mantra
 (repetir sempre!)
