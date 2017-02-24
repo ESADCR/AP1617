@@ -10,8 +10,9 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 
 ### Git Mantra
 (repetir sempre!)
-``git pull`
-`git add .`
-`git status`
-`git commit -m "o que quiserem"`
-`git push``
+```gitshell
+git pull
+git add .
+git status
+git commit -m "o que quiserem"
+git push ```
