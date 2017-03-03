@@ -17,8 +17,8 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 ⋅⋅* Texto com links e descritivo de trabalhos mais recentes de um artista/designer à escolha dentro dos entrevistados no filme; -> entre 400 e 500 palavras + links
 
 ⋅⋅* Rescursos:
-⋅⋅⋅ [Markdown Tutorial] (http://www.markdowntutorial.com/)*
-⋅⋅⋅ [Markdown Cheat Sheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+⋅⋅⋅[Markdown Tutorial] (http://www.markdowntutorial.com/)*
+⋅⋅⋅[Markdown Cheat Sheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 2. Fazer uma Página "Hello World" de modo livre, experimentando livremente o P5JS
