@@ -18,9 +18,9 @@ Deste Ficheiro deverá constar:
 * Texto com links e descritivo de trabalhos mais recentes de um artista/designer à escolha dentro dos entrevistados no filme; -> entre 400 e 500 palavras + links
 
 
-(recursos:
-[Markdown Tutotial] (http://www.markdowntutorial.com/)
-[Markdown Cheat Sheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+(recursos:*
++ [Markdown Tutotial] (http://www.markdowntutorial.com/)*
++ [Markdown Cheat Sheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 
