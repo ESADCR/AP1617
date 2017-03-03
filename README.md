@@ -3,14 +3,14 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 
 ## Aula 2 20170303
 
-#### Sumário
+### Sumário
 
 * Revisão Aula Anterior
 * Visionamento do Documentário ["Hello World" (2013)] (https://vimeo.com/60735314)
 * Apresentação Breve das Ferramentas de Trabalho Processing / P5JS
 
 
-#### Exercicio 2 (TPC)
+### Exercicio 2 (TPC)
 
 1. Num ficheiro do tipo Markdown (README.md), semelhante a este, gravado na raiz do vosso repositório, deverão:
 ..* Um cabeçalho com os vossos dados;
@@ -35,7 +35,7 @@ git init
 
 ## Aula 1 20170224
 
-#### Sumário
+### Sumário
 * Apresentação
 * Configuração Git
 
