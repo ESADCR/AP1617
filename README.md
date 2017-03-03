@@ -30,8 +30,8 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 
 * Se houver algum problema de reconhecimento do repositório usem o comando: 
 ```gitshell
-git init`
-
+git init
+```
 
 ## Aula 1 20170224
 
