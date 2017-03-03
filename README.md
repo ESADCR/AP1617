@@ -10,22 +10,27 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 * Apresentação Breve das Ferramentas de Trabalho Processing / P5JS
 
 
-#### Exercicio 2
+#### Exercicio 2 (TPC)
 
-1. Escrever um ficheiro do tipo Markdown (README.md), semelhante a este onde estão a ler para a raiz do vosso repositorio,
-Deste Ficheiro deverá constar:
-* Um cabeçalho com os vossos dados;
-* Texto com links e descritivo de trabalhos mais recentes de um artista/designer à escolha dentro dos entrevistados no filme; -> entre 400 e 500 palavras + links
+1. Num ficheiro do tipo Markdown (README.md), semelhante a este, gravado na raiz do vosso repositório, deverão:
+..* Um cabeçalho com os vossos dados;
+..* Texto com links e descritivo de trabalhos mais recentes de um artista/designer à escolha dentro dos entrevistados no filme; -> entre 400 e 500 palavras + links
 
-
-(recursos:*
-+ [Markdown Tutotial] (http://www.markdowntutorial.com/)*
-+ [Markdown Cheat Sheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
+..*Rescursos:
+... [Markdown Tutorial] (http://www.markdowntutorial.com/)*
+... [Markdown Cheat Sheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 2. Fazer uma Página "Hello World" de modo livre, experimentando livremente o P5JS
 
+
+### Algumas notas:
+
+* Erros poderão ser declarados no separador issues. Terão que fazer copy_paste do erro na linha de comando e referir o que aconetce associado a este. Qualquer outro colega poderá responder;
+
+* Se houver algum problema de reconhecimento do repositório usem o comando: 
+```gitshell
+git init`
 
 
 ## Aula 1 20170224
