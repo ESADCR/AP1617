@@ -17,7 +17,7 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
   * Texto com links e descritivo de trabalhos mais recentes de um artista/designer à escolha dentro dos entrevistados no filme; -> entre 400 e 500 palavras + links
 
   * Recursos:
-    ** [Markdown quick reference] (https://en.support.wordpress.com/markdown-quick-reference/)
+    ** [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
     ** [Markdown Tutorial] (http://www.markdowntutorial.com/)
 
 
@@ -45,13 +45,11 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 
 `git clone https://github.com/ESADCR/AP1617 `
 
-+ Já dentro da pasta que o clone gerou
-+ Configurar o GitHub USER - atribuindo a esse repositorio
++ Já dentro da pasta que o clone gerou, deverão configurar o GitHub USER - atribuindo a esse repositorio
 
 `git config user.name "USER.NAME"
 
 + Posteriormente podem navegar para a pasta do vosso trabalho dentro dessa, fazer as alterações que quiserem.
-
 + Sempre que gravam deverão repetir o GIT MANTRA abaixo:
 
 ### Git Mantra
