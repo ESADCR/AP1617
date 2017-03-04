@@ -24,7 +24,7 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 2. Fazer uma Página "Hello World" de modo livre, experimentando livremente o P5JS
 
   * Duplicar a pasta ExercicioN para a vossa pasta pessoal, alterando o nome para o nome do exercicio.
-  * Ao abrir esta pasta no vosso editor de texto, poderão alterar o ficheiro script.js e aí fazer as vossas experiencias com código. Em prática em aula, ou exercicios, ser sempre este o procedimento.
+  * Ao abrir esta pasta no vosso editor de texto, poderão alterar o ficheiro script.js e aí fazer as vossas experiencias com código. Em prática em aula, ou exercicios, ser sempre este o procedimento.
 
 ### Algumas notas:
 
