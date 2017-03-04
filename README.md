@@ -31,7 +31,7 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 * Erros poderão ser declarados no separador issues. Terão que fazer copy_paste do erro na linha de comando e referir o que aconetce associado a este. Qualquer outro colega poderá responder;
 
 * Se houver algum problema de reconhecimento do repositório usem o comando: 
-`<git init>`
+`git init`
 
 ## *Aula 1* 2017.02.24
 
@@ -43,16 +43,12 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 
 + navegar na Git Bash para a pasta onde querem o vosso repositorio instalado fazem:
 
----
-git clone https://github.com/ESADCR/AP1617
----
+`git clone https://github.com/ESADCR/AP1617 `
 
 + Já dentro da pasta que o clone gerou
 + Configurar o GitHub USER - atribuindo a esse repositorio
 
----
-git config user.name "USER.NAME"
----
+`git config user.name "USER.NAME"
 
 + Posteriormente podem navegar para a pasta do vosso trabalho dentro dessa, fazer as alterações que quiserem.
 
@@ -61,12 +57,12 @@ git config user.name "USER.NAME"
 ### Git Mantra
 (repetir sempre!)
 
----
+```gitshell
 git pull
 git add .
 git status
 git commit -m "o que quiserem"
 git push
----
+```
 
 ### ATENÇÃO TRABALHEM SÓ NAS VOSSAS PASTAS E NÃO SE ENGANEM NA ORDEM DOS COMANDOS!!!! NÃO FACILITEM
