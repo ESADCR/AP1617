@@ -31,7 +31,7 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 * Erros poderão ser declarados no separador issues. Terão que fazer copy_paste do erro na linha de comando e referir o que aconetce associado a este. Qualquer outro colega poderá responder;
 
 * Se houver algum problema de reconhecimento do repositório usem o comando: 
-`git init`
+`<git init>`
 
 ## *Aula 1* 2017.02.24
 
