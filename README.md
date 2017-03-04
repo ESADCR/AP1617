@@ -52,7 +52,7 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 + Posteriormente podem navegar para a pasta do vosso trabalho dentro dessa, fazer as alterações que quiserem.
 + Sempre que gravam deverão repetir o GIT MANTRA abaixo:
 
-### Git Mantra
+### Comandos Git mais importantes (sempre por esta ordem e se acharem que se enganaram voltem ao inicio!)
 (repetir sempre!)
 
 ```gitshell
