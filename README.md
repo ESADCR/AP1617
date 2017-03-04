@@ -47,7 +47,7 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 
 + Já dentro da pasta que o clone gerou, deverão configurar o GitHub USER - atribuindo a esse repositorio
 
-`git config user.name "USER.NAME"
+`git config user.name "USER.NAME"`
 
 + Posteriormente podem navegar para a pasta do vosso trabalho dentro dessa, fazer as alterações que quiserem.
 + Sempre que gravam deverão repetir o GIT MANTRA abaixo:
