@@ -1,7 +1,7 @@
 # AP1617
 Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media Digitais 2016
 
-## Aula 2 20170303
+## *Aula 2* 2017.03.03
 
 ### Sumário
 
@@ -13,18 +13,18 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 ### Exercicio 2 (TPC)
 
 1. Num ficheiro do tipo Markdown (README.md), semelhante a este, gravado na raiz do vosso repositório, deverão:
-⋅⋅* Um cabeçalho com os vossos dados;
-⋅⋅* Texto com links e descritivo de trabalhos mais recentes de um artista/designer à escolha dentro dos entrevistados no filme; -> entre 400 e 500 palavras + links
+  * Um cabeçalho com os vossos dados;
+  * Texto com links e descritivo de trabalhos mais recentes de um artista/designer à escolha dentro dos entrevistados no filme; -> entre 400 e 500 palavras + links
 
-⋅⋅* Recursos:
-⋅⋅⋅[Markdown Tutorial] (http://www.markdowntutorial.com/)
-⋅⋅⋅[Markdown Cheat Sheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  * Recursos:
+    ** [Markdown quick reference] (https://en.support.wordpress.com/markdown-quick-reference/)
+    ** [Markdown Tutorial] (http://www.markdowntutorial.com/)
 
 
 2. Fazer uma Página "Hello World" de modo livre, experimentando livremente o P5JS
 
-..* Duplicar o 
-
+  * Duplicar a pasta ExercicioN para a vossa pasta pessoal, alterando o nome para o nome do exercicio.
+  * Ao abrir esta pasta no vosso editor de texto, poderão alterar o ficheiro script.js e aí fazer as vossas experiencias com código. Em prática em aula, ou exercicios, ser sempre este o procedimento.
 
 ### Algumas notas:
 
@@ -35,7 +35,7 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 git init
 ```
 
-## Aula 1 20170224
+## *Aula 1* 2017.02.24
 
 ### Sumário
 * Apresentação
