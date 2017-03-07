@@ -36,4 +36,4 @@ http://historiadosintetizador.blogspot.pt/
 * Noticia que saiu no _The_ _New_ _York_ _Times_
 http://www.nytimes.com/2005/08/23/arts/music/switched-on-and-ready-to-rumble.html
 
-![GitHub Logo](/images/bob.jpg) 
+(/images/bob.jpg) 
