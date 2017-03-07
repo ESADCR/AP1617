@@ -1,0 +1,76 @@
+body{
+	background-color: #111111;
+
+
+}
+
+#divprot{
+	max-width: 700px;
+	margin: 150px auto;
+}
+
+#cabecalho{
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin: auto;
+	width: 650px;
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+
+
+#cabecalho hr{
+	clear: both;
+
+}
+
+
+#fixed{
+	position: fixed;
+    top: 0;
+    left: 597px;
+    background: #111111;
+    width: 700px;
+    height: 200px;
+}
+
+
+#botaoProt{
+	margin-top: 200px;
+}
+
+
+.botao{
+	text-decoration: none;
+	color: white;
+	height: 185px;
+    width: 240px;
+    padding: 40px;
+    display: inline-block;
+    float: left;
+    -webkit-transition: 1s;
+    text-align: center;
+    line-height: 185px;    
+}
+
+.botao:hover{
+	text-decoration: none;
+	color: white;
+	height: 185px;
+   	width: 240px;
+    padding: 40px;
+    display: inline-block; 
+    float: left;
+    color: #111111;
+    background-color: white;
+    -webkit-transition: 0.5s;
+}
+
+#hrDown{
+	width: 698px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: -30px;
+}
