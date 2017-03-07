@@ -19,3 +19,12 @@ Robert vendeu a companhia em 1972. A nova empresa teve o nome alterado para _Moo
 ## Reportagens e artigos:
 * Moog Archives - história ilustrada da Moog Music 
 http://moogarchives.com/
+
+* Pictures of Bob Moog 
+http://www.analogue.org/mr/moog/
+
+* Sound samples from the Moog Modular
+http://bluedistortion.com/samples/
+
+* História do Sintetizador
+http://historiadosintetizador.blogspot.pt/
