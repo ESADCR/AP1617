@@ -10,12 +10,17 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 
 ### Exercicio 3 (TPC)
 
-1. Fazer o update ao Markedown com a exploração de uma obra do autor que escolheram;
-2. Um avatar vosso, apenas com primitivas em p5js.
+1. Fazer o update ao Markdown com a exploração de uma obra do autor que escolheram;
+2. Um avatar vosso, apenas com primitivas 2D em p5js.
 
 
 
 ### notas, referencias e código:
+
+* Recursos:
+    ** [P5JS REFERENCE!!!!] (https://p5js.org/reference/)
+    ** [Código da Aula] (https://github.com/ESADCR/AP1617/tree/master/ExemploProf/Aula3)
+
 
 
 
