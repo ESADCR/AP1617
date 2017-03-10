@@ -50,9 +50,11 @@
 
 /* For devices larger than 550px */
 @media (min-width: 550px) {
-  .container {
-    width: 80%; }
-  .column,
+  .container,
+  
+  .column{
+    text-align: center;
+  }
   .columns {
     margin-left: 4%; }
   .column:first-child,
@@ -76,7 +78,7 @@
   .one-third.column               { width: 30.6666666667%; }
   .two-thirds.column              { width: 65.3333333333%; }
 
-  .one-half.column                { width: 48%; }
+  .one-half.column                
 
   /* Offsets */
   .offset-by-one.column,
@@ -125,7 +127,9 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222; }
+  color: #222; 
+  background-color: lightgrey;
+}
 
 
 /* Typography
