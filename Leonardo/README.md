@@ -6,6 +6,8 @@
 4. Idade: 23 anos
 5. Interesses: > Gaming e musica.
 
+##Designer ...
+
 Casey REAS (a k a Casey Edwin Barker Reas, C. E. B. Reas)
 Born 1972 in Troy, Ohio. Lives and works in Los Angeles.
 
