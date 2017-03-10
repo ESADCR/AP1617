@@ -19,4 +19,4 @@ Em junho de 2005, Jared co-fundou Etsy.com, um mercado on-line para comprar e ve
 Jared é um defensor de filosofias de código aberto, e como tal, distribui livremente seu trabalho em forma modificável em [Levitated.net](http://levitated.net/) e [Complexification.net](http://www.complexification.net/gallery/).
 
 
-# [Trabalhos do Artista](http://directory.eliterature.org/works/)
+#### [Trabalhos do Artista](http://directory.eliterature.org/works/)
