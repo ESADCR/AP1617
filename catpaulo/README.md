@@ -7,7 +7,7 @@
 
 **e-mail:** 02.10f1.aelourinha@gmail.com
 
-# ![Jared Tarbell](https://www.google.pt/search?q=Davey+Wreden&rlz=1C5CHFA_enPT713PT714&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtzP3ttMrSAhWEWhQKHR-dAdsQ_AUICCgB&biw=1261&bih=628#tbm=isch&q=Jared+Tarbell&*&imgrc=VMn9YJh_obyRaM:)
+# Jared Tarbell
 
 Ele é o criador de **Levitated.net**. 
 Nascido em 1973 para William e Suzon Davis Tarbell na cidade de Albuquerque, no Novo México, foi introduzido pela primeira vez em computadores pessoais em 1987. O amor de Jared pela computação cresceu em relação direta ao poder de processamento dessas máquinas.
