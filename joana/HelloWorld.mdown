@@ -1,12 +1,12 @@
-##Joana Mónico Lopes
+###Joana Mónico Lopes
 Aluna 3160582
-##Escola Superior de Artes e Design
-##Tesp DMD
+###Escola Superior de Artes e Design
+###Tesp DMD
 
 #KATE HOLLENBACH
 
 ![Kate Hollenbach](/imgDesigner/kate-hollenbach.jpg)
-Format: ![Alt Text](url)
+
 
 Kate Hollenbach é uma programadora e artista dos media, em  Los Angeles, California.
 Trabalha com sistemas interativos e tecnologias, relacionadas com o corpo, gestos e espaço físico.
@@ -15,12 +15,17 @@ Kate trabalhou como designer de interface e em desenvolvimento de produtos.
 
 #Trabalhos
 ### Phone loves you too (2016) 
+| http://www.katehollenbach.com/phonelovesyoutoo/
 ### Infinite Scroll (2016)
+| http://www.katehollenbach.com/infinite-scroll/
 ### In search of (2016)
+| http://www.katehollenbach.com/in-search-of/
 ### Revolitionary Devices (2015)
+| http://www.katehollenbach.com/revolutionarydevices-dot-com/
 ### Simple Business Machines (2015)
+| http://www.katehollenbach.com/simple-business-machines/
 ### Mezzanine (2010-2015)
+| http://www.katehollenbach.com/mezzanine/
 
 ## Site
-http://www.katehollenbach.com - automatic!
-[GitHub](http://github.com)
+http://www.katehollenbach.com 
