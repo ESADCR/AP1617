@@ -1,6 +1,23 @@
 # AP1617
 Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media Digitais 2016
 
+## *Aula 3* 2017.03.10
+
+* Discussão acerca de exercício 2 + Resultados
+* Pesquisa na Reference do P5Js e Processing
+* Noções elementares de sistemas de coordenadas, primitivas de desenho.
+
+
+### Exercicio 3 (TPC)
+
+
+
+### notas, referencias e código:
+
+
+
+
+
 ## *Aula 2* 2017.03.03
 
 ### Sumário
@@ -30,7 +47,7 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 
 * Erros poderão ser declarados no separador issues. Terão que fazer copy_paste do erro na linha de comando e referir o que aconetce associado a este. Qualquer outro colega poderá responder;
 
-* Se houver algum problema de reconhecimento do repositório usem o comando: 
+* Se houver algum problema de reconhecimento do repositório usem o comando:
 `git init`
 
 ## *Aula 1* 2017.02.24
