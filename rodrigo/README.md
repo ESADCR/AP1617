@@ -22,20 +22,16 @@ O seu primeiro [trabalho] (http://artport.whitney.org/commissions/softwarestruct
 
 * Vários trabalhos do [Casey Reas] (http://reas.com/).
 
-* [Processing] (https://books.google.pt/books/about/Processing.html?id=cNf3BQAAQBAJ&source=kp_cover&redir_esc=y&hl=pt-PT) publicado em 2007.
+* _Este livro introduz os conceitos fundamentais de programação de computadores e trabalho com Processing._ [Processing] (https://books.google.pt/books/about/Processing.html?id=cNf3BQAAQBAJ&source=kp_cover&redir_esc=y&hl=pt-PT) publicado em 2007.
 
-_Este livro introduz os conceitos fundamentais de programação de computadores e trabalho com Processing._
+* _Website_ [Form+Code] (http://formandcode.com/) publicado em 2010.
 
-* [Form+Code] (http://formandcode.com/) publicado em 2010.
+* _Aprende rapidamente os conceitos básicos de programação, desde variáveis a objetos;_ [Getting Started with P5.js: Making Interactive Graphics in JavaScript and Processing] (https://p5js.org/books/) publicado em 2015.
 
-_Website_
 
-* [Getting Started with P5.js: Making Interactive Graphics in JavaScript and Processing] (https://p5js.org/books/) publicado em 2015.
 
-_Aprende rapidamente os conceitos básicos de programação, desde variáveis a objetos;_
+* _Este livro introduz os conceitos fundamentais de programação de computadores e trabalho com Processing._ [Getting Started with Processing. Py] (https://www.amazon.com/Getting-Started-Processing-py-Interactive-Processing/dp/1457186837) publicado em 2016.
 
-* [Getting Started with Processing. Py] (https://www.amazon.com/Getting-Started-Processing-py-Interactive-Processing/dp/1457186837) publicado em 2016.
 
-_Este livro introduz os conceitos fundamentais de programação de computadores e trabalho com Processing._
 
 
