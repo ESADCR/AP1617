@@ -36,3 +36,8 @@ http://historiadosintetizador.blogspot.pt/
 * Noticia que saiu no _The_ _New_ _York_ _Times_
 http://www.nytimes.com/2005/08/23/arts/music/switched-on-and-ready-to-rumble.html
 
+## Sintetizador Moog
+
+O Moog foi comercializado a partir de 1964, inicialmente era monofônico (só era possível tocar uma nota por vez), desafinava constantemente devido à instabilidade dos osciladores e era construído em módulos separados cada qual com sua função (gerador de envelope, filtro, oscilador, etc), cujas combinações permitiam a geração de infinitas possibilidades de timbres e sons acionados por meio de um teclado.
+
+O modelo mais famoso foi o Minimoog D de 1971, desenvolvido como uma forma de compactar os módulos do sistema Moog em uma única peça com capacidade de síntese reduzida mas de fácil operação para qualquer músico. Destacou-se como o pontapé inicial na evolução dos teclados eletrônicos popularmente comercializados até a atualidade no que se refere a forma e praticidade.
