@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html
+
 
 var img;
 var smallPoint, largePoint;
@@ -9,17 +8,18 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(720, 400);
-  smallPoint = 4;
-  largePoint = 40;
+createCanvas(720, 400);
+  smallPoint = 6;
+  largePoint = 60;
   imageMode(CENTER);
   noStroke();
   background(255);
   img.loadPixels();
+ 
 }
 
 function draw() {
-  var pointillize = map(mouseX, 0, width, smallPoint, largePoint);
+ var pointillize = map(mouseX, 0, width, smallPoint, largePoint);
   var x = floor(random(img.width));
   var y = floor(random(img.height));
   var pix = img.get(x, y);
