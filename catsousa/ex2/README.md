@@ -1,6 +1,6 @@
 **Nome:** Catarina Sousa
 **Número:** 3160581
-**Idade:**19
+**Idade:** 19
 **Localidade:** Almada
 
 
@@ -22,9 +22,13 @@ Reas tem exposto o seu trabalho internacionalmente em instituições como Labora
 Alguns dos seus trabalhos:
 
 [2004 - 2010 | Process Compendium ](http://reas.com/compendium_text/)
+
 [2007 | Protean Image](http://www.bitforms.com/reas/protean-image-2)
+
 [2013 | Ultraconcentrated](http://www.bitforms.com/exhibitions/casey-reas-ultraconcentrated/press-release)
+
 [2015 | Linear Perspective ](http://www.cjamesgallery.com/show-detail/linear-perspective)
+
 [2016 | There’s No Distance](http://www.bitforms.com/exhibitions/reas-2016)
 
 
