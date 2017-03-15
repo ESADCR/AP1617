@@ -438,3 +438,8 @@ there.
   /*background-color: #EEE9E9;*/
   height: 120px;
 }
+
+textarea {
+  width: 1000px;
+  height: 1200px;
+}

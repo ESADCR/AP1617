@@ -5,7 +5,7 @@ Aluna 3160582
 
 #KATE HOLLENBACH
 
-![Kate Hollenbach](/imgDesigner/kate-hollenbach.jpg)
+![Kate Hollenbach](/images/kate-hollenbach.jpg)
 
 
 Kate Hollenbach é uma programadora e artista dos media, em  Los Angeles, California.
