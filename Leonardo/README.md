@@ -17,4 +17,4 @@ Reas is a professor at the University of California, Los Angeles. He holds a mas
 
 Reas recently co-wrote and designed the book 10 PRINT CHR$(205.5+RND(1)); : GOTO 10 (MIT Press, 2013). Reas and Fry published Processing: A Programming Handbook for Visual Designers and Artists, a comprehensive introduction to programming within the context of visual media (MIT Press, 2007). With Chandler McWilliams and Lust, Reas published Form+Code in Design, Art, and Architecture (Princeton Architectural Press, 2010), a non-technical introduction to the history, theory, and practice of software in the visual arts. Reas' Process Compendium 2004—2010 documents six years of his work exploring the phenomena of emergence through software.
 
------------------------------------------------------
+----------------------------------------------------- 
