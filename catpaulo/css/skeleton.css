@@ -38,8 +38,8 @@
   box-sizing: border-box; }
 
 .column {
-    margin: 15% 10px;
-    width: 900px;
+    margin: 5% 10px;
+    width: 200px;
     text-align: center;
 }
 
@@ -128,12 +128,15 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%; }
 body {
-  background-color: #E6E6FA;
+  background-image: url("123.jpg");
+  background-color: lightgrey;
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 500;
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222; }
+  color: #222; 
+  margin: auto;
+  }
 
 
 /* Typography
@@ -141,9 +144,8 @@ body {
 
 #text-inicial {
   text-align: center;
-  font-size: 50px;
+  font-size: 30px;
   font-family: helvetica;
-  font-style: ;
   color: black;
   text-transform: uppercase;
 }
@@ -206,24 +208,19 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-  display: inline-block;
-  height: 45px;
-  width: 700px;
-  padding: 0 30px;
-  color: white;
-  text-align: center;
-  font-size: 15px;
-  font-weight: 600;
-  line-height: 38px;
-  letter-spacing: .1rem;
-  text-transform: uppercase;
-  text-decoration: none;
-  white-space: nowrap;
-  background-color: transparent;
-  border-radius: 10px;
-  border: 1px solid #bbb;
-  cursor: pointer;
-  box-sizing: border-box; }
+    display: inline-block;
+    height: 30px;
+    width: 200px;
+    color: white;
+    line-height: 30px;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    cursor: pointer;
+    box-sizing: border-box;
+    }
 .button:hover,
 button:hover,
 input[type="submit"]:hover,
