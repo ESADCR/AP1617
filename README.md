@@ -3,15 +3,18 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 
 ## *Aula 4* 2017.03.16
 
-* Discussão acerca de exercício 3 + Resultados
-* //
-* //
+* Discussão acerca de exercício 3 + Resultados;
+* Variáveis Inteiras;
+* Condições elementares tipo If.
 
 
 ### Exercicio 4 (TPC)
 
-1. //
-2. //
+#### Tendo em conta que sabem: Primitivas de desenho, operar variáveis simples, atribuir cores, espessura de linha e outras propriedades, e sabem operar com variaveis de sistema como a posicao do mouse decomposta em X e em Y e com o formato do ecrã.
+
+1. Escolham um movimento e o descrevam no vosso readme.md, apontando para o link publico do exercício.
+
+2. É o exercício pp dito, onde vão em código demonstrar ou exemplificar o movimento que descreveram.
 
 ### ATENÇÃO!! Nos macs são criados ficheiros .ds store,
 sigam as instruções no issue aberto em vosso nome. (para os utilizadores de mac)

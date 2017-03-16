@@ -18,7 +18,7 @@ noFill()
 function draw() {
 	background(255);
 ellipse(mouseX,mouseY,100,100);
-ellipse(mouseX,mouseY+mouseY/5,100,100);
+ellipse(mouseX,mouseY+100,100,100);
 
  
 }
