@@ -29,4 +29,5 @@ Alguns dos seus trabalhos:
  Na criação deste trabalho, o conteúdo televisivo foi capturado do ar com uma antena. Reas editou e, em seguida, processou o material apropriado com seu próprio software personalizado, que é executado ao vivo na galeria. A lógica programada é visível como uma malha geométrica, construindo a ilusão de uma superfície.
 
 
+![Ultraconcentrated](https://blog.adafruit.com/wp-content/uploads/2013/08/Screen-Shot-2013-08-29-at-11.02.41-AM.png)
 
