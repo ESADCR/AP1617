@@ -1,5 +1,9 @@
 var e1, e2, e3;
 
+function windowResized () {
+  resizeCanvas (windowWidth, windowHeight); 
+}
+
 function setup() {
   createCanvas(1900, 1000);
   noStroke();
@@ -10,7 +14,7 @@ function setup() {
 }
 
 function draw() {
-  background(35);
+  background(34);
   e1.update(mouseX, mouseY);
   e2.update(mouseX, mouseY);
   e3.update(mouseX, mouseY);

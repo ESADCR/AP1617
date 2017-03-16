@@ -10,12 +10,16 @@
   <!--<script language="javascript" src="../../p5js/p5.sound.js"></script>-->
   <script language="javascript" type="text/javascript" src="test.js"></script>
   <!-- this line removes any default padding and style. you might only need one of these values set. -->
-  <style> body {padding: 0; margin: 0;} </style>
+  <style>
+    body {padding: 0; margin: 0;}
+    canvas {position: fixed; top: 0; left: 0; z-index: 1; } 
+    #contenu {position: relative; z-index: 2;} 
+  </style>
 
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Página do Fábio</title>
+  <title>Choose</title>
   <meta name="description" content="">
   <meta name="author" content="">
 
@@ -31,6 +35,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/style.css">
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -41,14 +46,14 @@
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <div class="container">
+  <div class="container" id="contenu">
     <div class="row">
       <div class="one-half column" style="margin-top: 25%">
-        <h4>Projetos do Fábio</h4>
+        <h4>don't startle them</h4>
         <div>
-        <script language="javascript" type="text/javascript" src="Reach.js"></script>
-        <a class="button button-primary" href="Exercicio1/index.html">Ex1</a>
-        <a class="button button-primary" href="Exercicio2/">Ex2</a>
+          <a class="button button-primary" href="Exercicio1/index.html">Ex1</a>
+          <a class="button button-primary" href="Exercicio2/">Ex2</a>
+          <canvas id="defaultCanvas">
         </div>
       </div>
     </div>
