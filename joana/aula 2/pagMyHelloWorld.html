@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Joana Lopes | DMD</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+   <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/pagMyHelloWorld.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  <link rel="icon" type="image/png" href="images/favicon.png">
+</head>
+<body>
+  <div class="container">
+    	<div class="row">
+	      	<div class="one-half column" style="margin-top: 10%">
+	        	<div class="cabeçalho">
+	          		<h4>ALGORITMIA & PROGRAMAÇÃO</h4>
+	        	</div>
+            <div class="botao">
+                <a class="button button-primary" href="file:///D:/Dados_Joana/Documents/AP1617/joana/index.html">Página Inicial</a>
+            </div>
+            <div class="botao">
+                <a class="button button-primary" href="file:///D:/Dados_Joana/Documents/AP1617/joana/pagEX2.html">Exercício 2</a>
+            </div>
+
+      
+            <script type="text/javascript">
+
+              var img;
+              var smallPoint, largePoint;
+
+              function preload() {
+                img = loadImage("assets/moonwalk.jpg");
+              }
+
+              function setup() {
+              createCanvas(720, 400);
+                smallPoint = 6;
+                largePoint = 60;
+                imageMode(CENTER);
+                noStroke();
+                background(255);
+                img.loadPixels();
+               
+              }
+
+              function draw() {
+               var pointillize = map(mouseX, 0, width, smallPoint, largePoint);
+                var x = floor(random(img.width));
+                var y = floor(random(img.height));
+                var pix = img.get(x, y);
+                fill(pix, 128);
+                ellipse(x, y, pointillize, pointillize);
+              }
+            </script>
+            
+          </div>
+      </div>
+  </div>
+</body>
+</html>

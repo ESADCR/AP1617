@@ -5,7 +5,7 @@ Aluna 3160582
 
 #KATE HOLLENBACH
 
-![Kate Hollenbach](/imgDesigner/kate-hollenbach.jpg)
+![Kate Hollenbach](/images/kate-hollenbach.jpg)
 
 
 Kate Hollenbach é uma programadora e artista dos media, em  Los Angeles, California.
@@ -16,16 +16,38 @@ Kate trabalhou como designer de interface e em desenvolvimento de produtos.
 #Trabalhos
 ### Phone loves you too (2016) 
 | http://www.katehollenbach.com/phonelovesyoutoo/
+| Kate observa, em como o relacionamento humano com um smartphone é intimista, em como esxiste uma ligação emocional entre o usuário e o dispositivo, sendo este uma tela privada num espaço público.
+ Ao longo do dia, o usuário olha para o telefone. E questiona- se: "O telefone olha para trás? E se o fizesse?"
+Phonelovesyoutoo é uma exposição,composta por 3 paredes, como visualizamos no link acima, com mais de 1000 vídeos gravados a partir da câmara frontal e traseira do seu telemóvel, para o qual desenvolveu uma aplicação para gravar automáticamente sempre que o telefone estava em uso (tela desbloqueada), durante 1 mês.
+ No final deste período de tempo, acumulava entre 30-90 minutos de filmagem por dia. A maioria dos vídeos curtos: menos de 30 segundos para responder a um e-mail ou enviar uma mensagem de texto. Longas durações, resultam de atividades como ler artigos e usar o GPS, etc. 
+  Cada vídeo captura hábitos, expressões; Neles estão presentes: o cabelo amarrotado e olhos inchados pela manhã, batom vermelho para uma saída à noite, cabelos molhados depois de um banho. 
+  O contexto muda, mas o rosto permanece praticamente o mesmo: é uma expressão vazia, uma expressão concentrada, o tipo de olhar vazio reservado apenas para telas brilhantes.
+
+
 ### Infinite Scroll (2016)
 | http://www.katehollenbach.com/infinite-scroll/
+| Infinite Scroll, é uma página de browser infinita que nunca acaba, e daí o nome.
+
+
 ### In search of (2016)
 | http://www.katehollenbach.com/in-search-of/
+| In search of é um trabalho sobre a falta de atenção, a dúvida e a incerteza, assim que se começam a tornar previsíveis , estas mudam.
+
+
 ### Revolitionary Devices (2015)
 | http://www.katehollenbach.com/revolutionarydevices-dot-com/
+
+
 ### Simple Business Machines (2015)
 | http://www.katehollenbach.com/simple-business-machines/
+| Software generativo submetido por "it’s doing it", que gera imagens realizdas por Matthias Dörfelt.
+
+
 ### Mezzanine (2010-2015)
 | http://www.katehollenbach.com/mezzanine/
+| Mezzanine, é um produto para salas de conferência colaborativas da Oblong Industries. Este produto combina interfaces gestuais e dispositivos pessoais. Todos os participantes podem contribuir e organizar o conteúdo simultaneamente através dos seus computadores, dispositivos móveis ou um dispositivo de varinha gestual, como no vídeo do link acima, no qual exemplificam o funcionamento desta varinha.
+
+
 
 ## Site
 http://www.katehollenbach.com 

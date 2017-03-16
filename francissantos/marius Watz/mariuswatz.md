@@ -1,5 +1,5 @@
-#Marius Watz
-####Trabalha com a abstração visual apartir de processos generativos de software.
+# Marius Watz
+#### Trabalha com a abstração visual apartir de processos generativos de software.
 ####É conhecido pelas suas formas geométricas e cores vivas, com trabalhos de software puro até projeções públicas e objetos físicos produzidos com tecnologia de fabricação digital.
 ####Já expôs os seus trabalhos em várias cidades do mundo, desde Londres, Oslo, São Paulo, Viena, etc.
 ####Em 2005 fundou o Generator.x, uma plataforma para uma série de eventos relacionados com a arte generativa e com design computacional.
@@ -30,11 +30,11 @@ _________________________________________________________________
 ####http://mariuswatz.com/wp-content/uploads/2011/12/5962-Object-5-02-800.jpg
 _________________________________________________________________
 ###ARCS (ROCKHEIM), 2012
-####Vídeo gerado por LED para a fachada do museu Nacional de Pop e Rock da Noruegua. Apesar do vídeo ser de baixa resolução envolve toda a "caixa" em todas as direções com densidade de pixeis variada.
-####http://mariuswatz.com/wp-content/uploads/2012/11/watzRockheim03.jpg
-####http://mariuswatz.com/wp-content/uploads/2012/11/watzRockheim02.jpg
-####http://mariuswatz.com/wp-content/uploads/2012/11/watzRockheim01.jpg
-####http://mariuswatz.com/wp-content/uploads/2012/11/watzRockheim04.jpg
+####É uma animação generativa para a fachada do cubo que fica no topo do "Rockheim Museum for Rock and Pop" em Trondheim, na Noruega.
+####A animação é feita usando algoritmos e consiste em linhas orientadas radialmente traçando uma superficie curva 3D. A peça atualmente usa vídeo renderizado ao invés de usar um software em tempo real, embora no inicio fosse possível criar uma versão em tempo real.
+####"Arcs" for projetado especificamente com as limitações do "pixel grid" em mente, dando prioridades aos movimentos dinêmicos e às cores brilhantes, de alto contraste, que envolvem em torno da fachada do cubo em densisades variadas.
+####Álbum no Flickr do artista:
+####https://www.flickr.com/photos/watz/sets/72157627696125179/
 _________________________________________________________________
 ###WALL EXPLODER B, 2011
 ####Desenho de parede criado usando uma imagem projetada e criada com fita de pintores. Acahtando a forma virtual numa superficie, o objetivo é jogar com questões de planicidade e dimensionalidade. AS caracteristicas são distorcidades quando não vistas no ponto de fuga da projeção. Projeto criado para o Kinotek 3: Programa de redação automática, organizado pela San Francisco Film Society.

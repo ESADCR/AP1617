@@ -1,6 +1,27 @@
 # AP1617
 Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media Digitais 2016
 
+## *Aula 4* 2017.03.16
+
+* Discussão acerca de exercício 3 + Resultados
+* //
+* //
+
+
+### Exercicio 4 (TPC)
+
+1. //
+2. //
+
+### ATENÇÃO!! Nos macs são criados ficheiros .ds store,
+sigam as instruções no issue aberto em vosso nome. (para os utilizadores de mac)
+
+
+## AVISO IMPORTANTE
+
+### A AULA DE SEXTA-FEIRA FOI ANTECIPADA ESTA SEMANA PARA QUINTA-FEIRA 16-03-2017 ÀS 9:30-13:30 na EP1-30
+### POR FAVOR AVISEM TODOS OS COLEGAS
+
 ## *Aula 3* 2017.03.10
 
 * Discussão acerca de exercício 2 + Resultados
@@ -10,12 +31,17 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 
 ### Exercicio 3 (TPC)
 
-1. Fazer o update ao Markedown com a exploração de uma obra do autor que escolheram;
-2. Um avatar vosso, apenas com primitivas em p5js.
+1. Fazer o update ao Markdown com a exploração de uma obra do autor que escolheram;
+2. Um avatar vosso, apenas com primitivas 2D em p5js.
 
 
 
 ### notas, referencias e código:
+
+* Recursos:
+    ** [P5JS REFERENCE!!!!] (https://p5js.org/reference/)
+    ** [Código da Aula] (https://github.com/ESADCR/AP1617/tree/master/ExemploProf/Aula3)
+
 
 
 

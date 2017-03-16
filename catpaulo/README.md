@@ -20,3 +20,43 @@ Jared é um defensor de filosofias de código aberto, e como tal, distribui livr
 
 
 #### [Trabalhos do Artista](http://directory.eliterature.org/works/)
+
+## SUBSTRATE
+
+As linhas gostam de cristais crescem em um substrato computacional. Uma regra de crescimento perpendicular simples cria intricada cidade - como estruturas.
+
+0001 iterated substrate 
+![0001 iterated substrate](http://www.complexification.net/gallery/machines/substrate/substrate0001.jpg)
+
+0011 iterated substrate
+![](http://www.complexification.net/gallery/machines/substrate/substrate0011.jpg)
+
+0014 iterated substrate
+![](http://www.complexification.net/gallery/machines/substrate/substrate0014.jpg)
+
+0021 iterated substrate
+![](http://www.complexification.net/gallery/machines/substrate/substrate0021.jpg)
+
+0022 iterated substrate
+![](http://www.complexification.net/gallery/machines/substrate/substrate0022.jpg)
+
+0026 iterated substrate
+![](http://www.complexification.net/gallery/machines/substrate/substrate0026.jpg)
+
+0029 iterated substrate
+![](http://www.complexification.net/gallery/machines/substrate/substrate0029.jpg)
+
+0034 iterated substrate
+![](http://www.complexification.net/gallery/machines/substrate/substrate0034.jpg)
+
+0037 iterated substrate
+![](http://www.complexification.net/gallery/machines/substrate/substrate0037.jpg)
+
+0039 iterated substrate
+![](http://www.complexification.net/gallery/machines/substrate/substrate0039.jpg)
+
+0051 iterated substrate
+![](http://www.complexification.net/gallery/machines/substrate/substrate0051.jpg)
+
+0053 iterated substrate
+![](http://www.complexification.net/gallery/machines/substrate/substrate0051.jpg) 
