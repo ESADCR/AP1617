@@ -23,7 +23,7 @@ Alguns dos seus trabalhos:
 | **2016** | **There’s No Distance** - http://www.bitforms.com/exhibitions/reas-2016
 
 
-###ULTRACONCENTRATED
+### ULTRACONCENTRATED
 
  Os sistemas de software de vídeo ao vivo são apresentados em ULTRACONCENTRATED, bem como impressões, peças de alumínio anodizado gravadas a laser e uma escultura iluminada criada com ArandaLasch.
  Na criação deste trabalho, o conteúdo televisivo foi capturado do ar com uma antena. Reas editou e, em seguida, processou o material apropriado com seu próprio software personalizado, que é executado ao vivo na galeria. A lógica programada é visível como uma malha geométrica, construindo a ilusão de uma superfície.
