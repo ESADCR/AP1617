@@ -1,6 +1,22 @@
 # AP1617
 Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media Digitais 2016
 
+## *Aula 4* 2017.03.16
+
+* Discussão acerca de exercício 3 + Resultados
+* //
+* //
+
+
+### Exercicio 4 (TPC)
+
+1. //
+2. //
+
+### ATENÇÃO!! Nos macs são criados ficheiros .ds store,
+sigam as instruções no issue aberto em vosso nome. (para os utilizadores de mac)
+
+
 ## AVISO IMPORTANTE
 
 ### A AULA DE SEXTA-FEIRA FOI ANTECIPADA ESTA SEMANA PARA QUINTA-FEIRA 16-03-2017 ÀS 9:30-13:30 na EP1-30
