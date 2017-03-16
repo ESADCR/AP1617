@@ -28,14 +28,21 @@
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 .container {
   position: relative;
   width: 100%;
   max-width: 960px;
-  margin: 0 auto;
+  margin: auto;
   padding: 0 20px;
   box-sizing: border-box; }
-.column,
+
+.column {
+    margin: 5% 10px;
+    width: 200px;
+    text-align: center;
+}
+
 .columns {
   width: 100%;
   float: left;
@@ -121,15 +128,46 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%; }
 body {
+  background-image: url("123.jpg");
+  background-color: lightgrey;
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
-  font-weight: 400;
+  font-weight: 500;
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222; }
+  color: #222; 
+  margin: auto;
+  }
 
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+#text-inicial {
+  text-align: center;
+  font-size: 30px;
+  font-family: helvetica;
+  color: black;
+  text-transform: uppercase;
+}
+
+.dates {
+  font-size: 4px;
+}
+
+span {
+  font-family: helvetica;
+  font-size: 12px;
+}
+
+.information {
+  text-decoration: underline;
+  font-weight: bold;
+} 
+
+.information2 {
+
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 2rem;
@@ -170,23 +208,19 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-  display: inline-block;
-  height: 38px;
-  padding: 0 30px;
-  color: #555;
-  text-align: center;
-  font-size: 11px;
-  font-weight: 600;
-  line-height: 38px;
-  letter-spacing: .1rem;
-  text-transform: uppercase;
-  text-decoration: none;
-  white-space: nowrap;
-  background-color: transparent;
-  border-radius: 4px;
-  border: 1px solid #bbb;
-  cursor: pointer;
-  box-sizing: border-box; }
+    display: inline-block;
+    height: 30px;
+    width: 200px;
+    color: white;
+    line-height: 30px;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    cursor: pointer;
+    box-sizing: border-box;
+    }
 .button:hover,
 button:hover,
 input[type="submit"]:hover,
@@ -206,8 +240,8 @@ input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
   color: #FFF;
-  background-color: #33C3F0;
-  border-color: #33C3F0; }
+  background-color: black;
+  border-color: white; }
 .button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,
@@ -219,8 +253,9 @@ input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
   color: #FFF;
-  background-color: #1EAEDB;
-  border-color: #1EAEDB; }
+  background-color: white;
+  color: black;
+  border-color: black; }
 
 
 /* Forms
@@ -238,7 +273,7 @@ select {
   padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
   background-color: #fff;
   border: 1px solid #D1D1D1;
-  border-radius: 4px;
+  border-radius: 10px;
   box-shadow: none;
   box-sizing: border-box; }
 /* Removes awkward default styles on some inputs for iOS */
@@ -377,7 +412,9 @@ hr {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
   border-width: 0;
-  border-top: 1px solid #E1E1E1; }
+  border-top: 1px solid whitesmoke; 
+  width: 800px;
+}
 
 
 /* Clearing

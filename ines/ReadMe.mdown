@@ -1,0 +1,33 @@
+# Dados Pessoais:
+
+* **Nome:** Inês Lopes
+* **Localidade:** Leiria
+* **Idade:** 20 anos
+
+###  Casey Reas  
+
+**Casey Reas** CEB Reas (nascido em 1972) também conhecida como Casey Reas Edwin Barker ou Casey REAS é um artista cuja conceitual, obras de arte e processuais mínimas explorar idéias através da lente contemporâneo de software.
+Reas é mais conhecido por ter criado, com Ben Fry , a linguagem de programação Processing .
+As imagens geradas por software da Reas derivam de instruções de texto curto explicando processos que definem uma rede de ações. As instruções são expressas em diferentes mídias, incluindo linguagem natural, código de máquina e simulações de computador, resultando em imagens dinâmicas e estáticas.  
+
+Alguns dos seus trabalhos:
+
+| **2004 - 2010** | **Process Compendium** - http://reas.com/compendium_text/
+
+| **2007** | **Protean Image** - http://www.bitforms.com/reas/protean-image-2
+
+| **2013** | **Ultraconcentrated** - http://www.bitforms.com/exhibitions/casey-reas-ultraconcentrated/press-release
+
+| **2015** | **Linear Perspective** - http://www.cjamesgallery.com/show-detail/linear-perspective
+
+| **2016** | **There’s No Distance** - http://www.bitforms.com/exhibitions/reas-2016
+
+
+### ULTRACONCENTRATED
+
+ Os sistemas de software de vídeo ao vivo são apresentados em ULTRACONCENTRATED, bem como impressões, peças de alumínio anodizado gravadas a laser e uma escultura iluminada criada com ArandaLasch.
+ Na criação deste trabalho, o conteúdo televisivo foi capturado do ar com uma antena. Reas editou e, em seguida, processou o material apropriado com seu próprio software personalizado, que é executado ao vivo na galeria. A lógica programada é visível como uma malha geométrica, construindo a ilusão de uma superfície.
+
+
+![Ultraconcentrated](https://blog.adafruit.com/wp-content/uploads/2013/08/Screen-Shot-2013-08-29-at-11.02.41-AM.png)
+

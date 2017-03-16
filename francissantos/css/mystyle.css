@@ -1,0 +1,72 @@
+body{
+	background-color: #111111;
+	max-width: 1200px;
+	margin: auto;
+}
+
+
+.botao{
+	text-align: center;
+	line-height: 400px;
+	text-decoration: none;
+	color: white;
+	height: 400px;
+    width: 400px;
+    float: left;
+    -webkit-transition: 5s;    
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+	-webkit-transition:0.3s;
+	border-bottom: 0.5px solid #cccccc;
+}
+
+.botao:hover{
+	background-color: #cccccc;
+	color: black;
+	-webkit-transition:0.3s;
+}
+
+.botaofixedbaixo{
+	position: fixed;
+    bottom: 0;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: none;
+    color: white;
+    height: 50px;
+    width: 1200px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    -webkit-transition: 0.3s;
+    border-top: 0.5px solid #cccccc;
+    background-color: #111111;
+    clear: both;
+}
+
+.botaofixed:hover{
+	background-color: #cccccc;
+	color: black;
+	-webkit-transition:0.3s;
+}
+
+p{
+	padding: 0;
+	margin: 0;
+}
+
+.botaoP{
+	position: fixed;
+    bottom: 0;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: none;
+    color: black;
+    height: 50px;
+    width: 1200px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    border-top: 0.5px solid #cccccc;
+    background-color: #cccccc;
+    clear: both;
+    display: block;
+}
