@@ -1,5 +1,5 @@
-#Marius Watz
-####Trabalha com a abstração visual apartir de processos generativos de software.
+# Marius Watz
+#### Trabalha com a abstração visual apartir de processos generativos de software.
 ####É conhecido pelas suas formas geométricas e cores vivas, com trabalhos de software puro até projeções públicas e objetos físicos produzidos com tecnologia de fabricação digital.
 ####Já expôs os seus trabalhos em várias cidades do mundo, desde Londres, Oslo, São Paulo, Viena, etc.
 ####Em 2005 fundou o Generator.x, uma plataforma para uma série de eventos relacionados com a arte generativa e com design computacional.
