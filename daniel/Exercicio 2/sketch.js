@@ -1,48 +1,19 @@
-ArrayList balls = new ArrayList();
+var exerc;
 
-void setup()
-{
-    size(500, 500);
-    background(100);  
+function setup(){
+  createCanvas(710, 400);
+  exerc = createGraphics(400, 250);
 }
 
-void draw()
-{ 
-  background(100);
-  if (balls.size() > 0) {
-  	for (int i = 0; i < balls.size(); i++) {
-  		balls.get(i).update();
-  		balls.get(i).draw();
-  	}
-  }
-}
+function draw(){
+  fill(0, 12);
+  rect(0, 0, width, height);
+  fill(255);
+  noStroke();
+  ellipse(mouseX, mouseY, 60, 60);
 
-void mouseClicked() {
-	Ball b = new Ball(mouseX, mouseY);
-	balls.add(b);
-}
+  exerc.noFill();
+  exerc.stroke(255);
+  exerc.ellipse(mouseX-150, mouseY-75, 60, 60);
 
-class Ball {
-	int x, y;
-	int yV;
-	int gravity;
-
-	Ball(int initX, int initY) {
-		x = initX;
-		y = initY;
-		yV = 1;
-		gravity = 1;
-	}
-
-	void update() {
-		yV += gravity;
-		y += yV;
-		if (y > 480) {
-			yV = -20;
-		}
-	}
-
-	void draw() {
-		ellipse(x, y, 20, 20);
-	}
 }
