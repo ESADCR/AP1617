@@ -18,3 +18,8 @@
 
 ### Mais sobre o projeto ARCS (ROCKHEIM), 2012:
 #### É uma animação generativa para a fachada do cubo que fica no topo do "Rockheim Museum for Rock and Pop" em Trondheim, na Noruega. A animação é feita usando algoritmos e consiste em linhas orientadas radialmente traçando uma superficie curva 3D. A peça atualmente usa vídeo renderizado ao invés de usar um software em tempo real, embora no inicio fosse possível criar uma versão em tempo real. "Arcs" for projetado especificamente com as limitações do "pixel grid" em mente, dando prioridades aos movimentos dinêmicos e às cores brilhantes, de alto contraste, que envolvem em torno da fachada do cubo em densisades variadas. [Imagens Ilustrativas do Projeto](https://www.flickr.com/photos/watz/sets/72157627696125179/)
+
+---
+
+### Ex.04.Movimento
+#### O movimento criado foi um simples movimento de baixo para cima repetidamente. O objeto usado foi uma elipse. [Ver Movimento](ex4/movimento.html)
