@@ -1,5 +1,5 @@
 # Catarina Paulo
-### Aula 2 - Exercício 1
+### Exercício 2
 
 **Número:** 3160074
 
@@ -20,6 +20,8 @@ Jared é um defensor de filosofias de código aberto, e como tal, distribui livr
 
 
 #### [Trabalhos do Artista](http://directory.eliterature.org/works/)
+
+### Exercício 3
 
 ## SUBSTRATE
 
@@ -60,3 +62,25 @@ As linhas gostam de cristais crescem em um substrato computacional. Uma regra de
 
 0053 iterated substrate
 ![](http://www.complexification.net/gallery/machines/substrate/substrate0051.jpg) 
+
+### Exercício 4
+
+O ![movimento](exercício5.html) escolhido com a posição do mouse em X da esquerda para a direita, fazendo um movimento rectilíneo.
+Em que o objeto (ellipse) aumenta o seu respetivo raio durante o seu percurso.
+
+#### Código do movimento
+
+/*se o posicaoX for maior ou igual ao width então o posicaoX volta a 0*/
+/*if position greater or equal to the width then position equals 0*/
+
+if (posicaoX >= width-raio && velocidade > 0); {
+
+ direcao = 1;
+
+}
+
+if (posicaoX <= width-raio && direcao < 0); {
+
+ direcao = 1;
+ 
+}
