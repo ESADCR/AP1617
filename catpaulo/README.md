@@ -74,6 +74,8 @@ Em que o objeto (ellipse) aumenta o seu respetivo raio durante o seu percurso.
 
 /*if position greater or equal to the width then position equals 0*/
 
+
+
 if (posicaoX >= width-raio && velocidade > 0); {
 
  direcao = 1;
