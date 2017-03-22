@@ -65,12 +65,13 @@ As linhas gostam de cristais crescem em um substrato computacional. Uma regra de
 
 ### Exercício 4
 
-O ![movimento](exercício5.html) escolhido com a posição do mouse em X da esquerda para a direita, fazendo um movimento rectilíneo.
+O ![movimento](https://github.com/ESADCR/AP1617/blob/master/catpaulo/exerc%C3%ADcio5.html) escolhido com a posição do mouse em X da esquerda para a direita, fazendo um movimento rectilíneo.
 Em que o objeto (ellipse) aumenta o seu respetivo raio durante o seu percurso.
 
 #### Código do movimento
 
 /*se o posicaoX for maior ou igual ao width então o posicaoX volta a 0*/
+
 /*if position greater or equal to the width then position equals 0*/
 
 if (posicaoX >= width-raio && velocidade > 0); {
