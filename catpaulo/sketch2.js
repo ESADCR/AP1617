@@ -44,32 +44,46 @@ endShape();
 /*Risco do Olho*/
 
 fill(245, 188, 157);
+beginShape();
 arc(230, 168, 50, 25, 245, 339);
+endShape();
 
 fill(245, 188, 157);
+beginShape();
 arc(149, 168, 50, 25, 204, 308);
+endShape();
 
 /*Sobrancelhas*/
 
 fill(245, 188, 157);
-arc(231, 148, 53, 20, 224, 343);
+beginShape();
+arc(231, 148, 53, 20, 223.3, 320.5);
+endShape();
 
 fill(245, 188, 157);
-arc(147, 148, 53, 20, 198, 340);
+beginShape();
+arc(147, 148, 53, 20, 198, 320.2);
+endShape();
 
 /*Olhos*/
 
 fill(240, 250, 240);
+beginShape();
 arc(231, 174, 45, 23, 19, 100.65);
 arc(151, 174, 45, 23, 19, 100.65);
+endShape();
 
 fill(29, 31, 29);
+beginShape();
 arc(231, 174, 20, 20, 19, 100.65);
 arc(151, 174, 20, 20, 19, 100.65);
+endShape();
 
 fill(245, 250, 245);
+beginShape();
 arc(233, 171, 11, 11, 19, 100.65);
 arc(153, 171, 11, 11, 19, 100.65);
+endShape();
 
 /*Nariz*/
 
@@ -94,13 +108,18 @@ endShape();
 /*Boca*/
 
 fill(240, 120, 126);
+beginShape();
 arc(191, 239, 71, 59, 0, 160.2);
+endShape();
 
 fill(250, 240, 241);
+beginShape();
 arc(191, 244, 52, 37, 0, 160.2);
+endShape();
 
 /*Dentes*/
 
+beginShape();
 line (214, 253, 168, 253);
 line (200, 259, 200, 244);
 line (184, 260, 184, 244);
@@ -108,6 +127,7 @@ line (192, 262, 192, 244);
 line (208, 258, 208, 244);
 line (177, 258, 177, 244);
 line (169, 253, 169, 244);
+endShape();
 
 /*Camisola*/
 
