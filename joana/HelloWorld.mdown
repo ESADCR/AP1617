@@ -56,9 +56,9 @@ http://www.katehollenbach.com
 
 
 
-..
+______________________________________________________________________
 
-#EXERCÍCIO 4_MOVIMENTO
+##EXERCÍCIO 4_MOVIMENTO
 
 O movimento escolhido é o Loop. Este é executado quando o browser está carregado; É nos apresentada uma linha horizontal branca que é executada em sequência, depois da última linha lida, ou seja se o Y for menor que 0 a linha volta novamente a subir (de baixo para cima) em altura.
 | https://p5js.org/examples/structure-loop.html
