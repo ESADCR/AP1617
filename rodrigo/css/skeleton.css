@@ -76,8 +76,8 @@
 
   .one-third.column               { width: 30.6666666667%; }
   .two-thirds.column              { width: 65.3333333333%; }
-
-  .one-half.column                { width: 48%; }
+                                  /*width: 48%;*/
+  .one-half.column                { text-align: center; } 
 
   /* Offsets */
   .offset-by-one.column,
@@ -209,6 +209,7 @@ input[type="button"].button-primary {
   color: #FFF;
   background-color: #3a3732;
   border-color: #3a3732; }
+
 .button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,
@@ -220,8 +221,8 @@ input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
   color: #FFF;
-  background-color: #db1e56;
-  border-color: #db1e56; }
+  background-color: #990000;
+  border-color: #990000; }
 
 
 /* Forms
