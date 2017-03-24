@@ -1,4 +1,4 @@
-var numSegments = 10,
+ar numSegments = 10,
   x = [],
   y = [],
   angle = [],
@@ -17,7 +17,7 @@ function setup() {
   stroke(255, 100);
 
   x[x.length-1] = width/2; // Set base x-coordinate
-  y[x.length-2] = height;  // Set base y-coordinate
+  y[x.length-1] = height;  // Set base y-coordinate
 }
 
 function draw() {
