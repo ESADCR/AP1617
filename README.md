@@ -1,6 +1,17 @@
 # AP1617
 Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media Digitais 2016
 
+## *Aula 5* 2017.03.24
+
+* Discussão acerca de exercício 4 + Resultados;
+* Outros Tipos de Variáveis
+* Revisao de Condições If
+* If..... Else
+* iterações For
+
+
+
+
 ## *Aula 4* 2017.03.16
 
 * Discussão acerca de exercício 3 + Resultados;
