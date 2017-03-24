@@ -1,0 +1,50 @@
+body{
+	background-image: url(../images/background2.png);
+}
+.container{
+	margin: auto;
+	max-width: 960px;
+}
+
+nav{
+	background-color: #333;
+	width: 100%;
+}
+nav ul{
+	margin:0px;
+	padding: 0px;
+	list-style-type: none;
+	overflow: hidden;
+	max-width: 1060px;
+	margin: auto;
+	text-align:center;
+}
+nav ul li{
+	display: inline;
+}
+nav ul li a{
+	width:60px;
+	color: white;
+	padding: 14px 16px;
+	text-decoration: none;
+	text-align: center;
+	line-height: 50px;
+}
+nav ul li a:hover{
+	background-color: #428bca;
+	color: white;
+	text-decoration: none;
+}
+
+.container-fluid{
+	height: 160px;
+	text-align: center;
+	line-height: 160px;
+	margin-top: 10px;
+	border: 2px solid black;
+	margin-bottom: 10px
+}
+h1{
+	font-size: 52px;
+	font-weight: bold;
+}

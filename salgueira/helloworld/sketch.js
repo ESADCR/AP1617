@@ -8,19 +8,19 @@ function draw() {
   push();
   translate(width*0.2, height*0.5);
   rotate(frameCount / 100);
-  polygon(0, 0, 82, 3); 
+  polygon(0, 0, 82, 12); 
   pop();
   
   push();
   translate(width*0.5, height*0.5);
   rotate(frameCount / 100);
-  polygon(0, 0, 80, 3); 
+  polygon(0, 0, 80, 8); 
   pop();
   
   push();
   translate(width*0.8, height*0.5);
   rotate(frameCount / 100);
-  polygon(0, 0, 80, 3); 
+  polygon(0, 0, 80, 4); 
   pop();
 }
 function polygon(x, y, radius, npoints) {
