@@ -1,24 +1,28 @@
+body {
+   font-family: "Verdana"
+}
+
+
+.mundo {
+  position: relative;
+
+}
 #header-container {
   width: 100%;
   background-color: black;
-  position: fixed;
-  top: 0px;
-  left: 0px;
+  position: absolute;
+  margin-top: 250px;
 }
-#logo {
-    color: black;
-    margin-top: 15px;
-    font-size: 20px;
-    margin-left: 0px;
-    margin-right: 20px;
-}
-
-
-
-
-
-.container {
-  max-width: 800px;
-  margin: auto;
+#header {
   text-align: center;
-  color: white;
+  height: 200px;
+}
+#img {
+  margin-top: 12px;
+}
+#img:hover {
+  opacity: 0.6;
+}
+
+
+
