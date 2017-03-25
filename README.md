@@ -9,8 +9,9 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 * If..... Else
 * iterações For
 
+### Exercicio 5 (TPC)
 
-
+* Utilizar uma tabela baseada num ciclo For forma mais criativa ou util que encontrarem.
 
 ## *Aula 4* 2017.03.16
 
