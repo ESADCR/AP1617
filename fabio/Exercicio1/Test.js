@@ -1,44 +1,58 @@
-var e1, e2, e3;
+var numSegments = 10,
+  x = [],
+  y = [],
+  angle = [],
+  segLength = 26,
+  targetX, targetY;
+
+for (var i = 0; i < numSegments; i++) {
+  x[i] = 0;
+  y[i] = 0;
+  angle[i] = 0;
+}
 
 function setup() {
-  createCanvas(1900, 1000);
-  noStroke();
-  e1 = new Eye(250, 100, 120);
-  e2 = new Eye(164, 850, 80);
-  e3 = new Eye(1600, 400, 220);
-  e4 = new Eye(1500, 700, 40);
+  createCanvas(710, 400);
+  strokeWeight(20);
+  stroke(255, 100);
+
+  x[x.length-1] = width/2; // Set base x-coordinate
+  y[x.length-2] = height;  // Set base y-coordinate
 }
 
 function draw() {
-  background(35);
-  e1.update(mouseX, mouseY);
-  e2.update(mouseX, mouseY);
-  e3.update(mouseX, mouseY);
-  e4.update(mouseX, mouseY);
-  e1.display();
-  e2.display();
-  e3.display();
-  e4.display();
+  background(0);
+
+  reachSegment(0, mouseX, mouseY);
+  for(var i=1; i<numSegments; i++) {
+    reachSegment(i, targetX, targetY);
+  }
+  for(var j=x.length-1; j>=1; j--) {
+    positionSegment(j, j-1);
+  }
+  for(var k=0; k<x.length; k++) {
+    segment(x[k], y[k], angle[k], (k+1)*2);
+  }
 }
 
-function Eye(tx, ty, ts) {
-  this.x = tx;
-  this.y = ty;
-  this.size = ts;
-  this.angle = 0;
+function positionSegment(a, b) {
+  x[b] = x[a] + cos(angle[a]) * segLength;
+  y[b] = y[a] + sin(angle[a]) * segLength;
+}
 
-  this.update = function (mx, my) {
-    this.angle = atan2(my - this.y, mx - this.x);
-  };
+function reachSegment(i, xin, yin) {
+  var dx = xin - x[i];
+  var dy = yin - y[i];
+  angle[i] = atan2(dy, dx);
+  targetX = xin - cos(angle[i]) * segLength;
+  targetY = yin - sin(angle[i]) * segLength;
+}
 
-  this.display = function () {
-    push();
-    translate(this.x, this.y);
-    fill(255);
-    ellipse(0, 0, this.size, this.size);
-    rotate(this.angle);
-    fill(153, 204, 0);
-    ellipse(this.size / 4, 0, this.size / 2, this.size / 2);
-    pop();
-  };
+function segment(x, y, a, sw) {
+  strokeWeight(sw);
+  push();
+  translate(x, y);
+  rotate(a);
+  line(0, 0, segLength, 0);
+  pop();
 }
