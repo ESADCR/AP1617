@@ -5,7 +5,6 @@ function windowResized () {
 }
 
 function setup() {
-  createCanvas(1900, 1000);
   noStroke();
   e1 = new Eye(250, 100, 120);
   e2 = new Eye(164, 850, 80);
