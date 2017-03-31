@@ -47,10 +47,18 @@ body{
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-.titulo{
+.ex{
   font-size: 50px;
   font-family: "Magneto";
   text-align: center;
+  margin-bottom: 0;
+}
+
+.dt{
+  font-size: 25px;
+  font-family: "Magneto";
+  text-align: center;
+  margin-top: 0;
 }
 
 nav{
@@ -75,7 +83,7 @@ nav{
   font-size: 15px;
 }
 
-li a:hover{
+.btn a:hover{
   background: white;
   opacity: 0.2;
   color: black;
@@ -83,9 +91,21 @@ li a:hover{
   border: 2px solid black;
 }
 
+.seta{
+  width: 30px;
+  margin-left: 25px;
+}
+
+.btn1 a:hover{
+  opacity: 0.5;
+}
+
 .conteudo{
   width: 1024px;
   height: 570px;
+  background-color: white;
+  opacity: 0.9;
+  border: 2px solid grey;
   margin: auto;
 }
 
@@ -97,6 +117,5 @@ footer{
   text-align: center;
   font-size: 12px;
   color: white;
-  margin-bottom: 0;
   position: fixed;
 }
