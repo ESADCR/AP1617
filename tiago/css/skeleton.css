@@ -55,6 +55,19 @@
   border: 3px solid black;
 }
 
+.containerPagina {
+  background-color: gray;
+  position: relative;
+  height: 900px;
+  color: white;
+  font-family: "Chaparral Pro Light", Georgia, Serif; 
+  margin: auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+  border: 3px solid black;
+}
+
+
 .botao {
     margin-left: 39%;
     border: none;
@@ -78,6 +91,28 @@
     color: white;
 }
 
+
+.botao1 {
+    margin-bottom: 10px;
+    border: none;
+    color: white;
+    padding: 16px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white; 
+    color: black; 
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+.botao1:hover {
+    background-color: gray;
+    
 
 /* Larger than mobile */
 @media (min-width: 400px) {}
