@@ -10,8 +10,17 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 * While;
 * Física em Movimentos Básicos.
 
+### Exercio 6
+Traduzir Exemplo da aula 6 em Processing para p5js (até à aula 7)
+
 ### Exercicio Final (TPC) -
 Publicação até ao final da interrupção lectiva da Pascoa, altura em que fecho a avaliação.
+
+### notas, referencias e código:
+
+* Recursos:
+    ** [Nature of Code] (https://natureofcode/)
+    ** [TUTORIAL - Hour of coordenadas] (http://hello.processing.org/)
 
 * Definição de um movimento tipo Pong (bola e raquete)
 
