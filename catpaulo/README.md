@@ -1,5 +1,5 @@
 # Catarina Paulo
-### Aula 2 - Exercício 1
+### Exercício 1
 
 **Número:** 3160074
 
@@ -21,6 +21,7 @@ Jared é um defensor de filosofias de código aberto, e como tal, distribui livr
 
 # [Trabalhos do Artista](http://directory.eliterature.org/works/)
 
+### Exercício 2
 ## SUBSTRATE
 
 As linhas gostam de cristais crescem em um substrato computacional. Uma regra de crescimento perpendicular simples cria intricada cidade - como estruturas.
@@ -60,3 +61,8 @@ As linhas gostam de cristais crescem em um substrato computacional. Uma regra de
 
 0053 iterated substrate
 ![](http://www.complexification.net/gallery/machines/substrate/substrate0051.jpg) 
+
+### Exercício 4
+#### Descrever o movimento concretizado
+
+O movimento desenvolvido foi sendo uma espécie de representação de um espaço, onde os planetas se movem todos apenas para um centro, enquanto que as bolas fixas representam as estrelas. (Tentativa)
