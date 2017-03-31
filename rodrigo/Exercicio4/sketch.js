@@ -15,10 +15,10 @@ function draw() {
   fill(0);
   triangle(30, 75, 58, 20, y, 75);
   
-  y = y - 2;
+  y = y - 5;
   
 
-  if (y < 5) {
+  if (y < 10) {
     y = height;
   }
 }
