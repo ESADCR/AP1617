@@ -8,35 +8,42 @@ function setup() {
 	createCanvas(1000, 500);
 	background(0);
 
-	for ( var i = 0; i < num; i++ ) {
+	for ( var i = 30; i < num; i++ ) {
     ax[i] = width / 2;
     ay[i] = height / 2;
   	}
-  	frameRate(30);
+  	frameRate(900);
 
 }
 
 function draw() {
-background(51);
+background(0);
 
-  // Shift all elements 1 place to the left
-  for ( var i = 1; i < num; i++ ) {
+  // Deslocar todos os elementos 1 lugar para a esquerda
+  for ( var i = 190; i < num; i++ ) {
     ax[i - 1] = ax[i];
     ay[i - 1] = ay[i];
   }
 
-  // Put a new value at the end of the array
+  // Colocar um novo valor no final da matriz
   ax[num - 1] += random(-range, range);
   ay[num - 1] += random(-range, range);
 
-  // Constrain all points to the screen
+  // Restringir todos os pontos à tela
   ax[num - 1] = constrain(ax[num - 1], 0, width);
   ay[num - 1] = constrain(ay[num - 1], 0, height);
 
-  // Draw a line connecting the points
-  for ( var j = 1; j < num; j++ ) {
+  // Desenhe uma linha conectando os pontos
+  for ( var j = 6; j < num; j++ ) {
     var val = j / num * 204.0 + 51;
     stroke(val);
-    line(ax[j - 1], ay[j - 1], ax[j], ay[j]);
+    line(ax[j - 190], ay[j - 900], ax[j], ay[j]);
+  }
+}
+
+function mouseMoved() {
+  range = range + 60;
+  if (range > 255) {
+    range = 80;
   }
 }
