@@ -19,9 +19,9 @@ Publicação até ao final da interrupção lectiva da Pascoa, altura em que fec
 
 ### notas, referencias e código:
 
-* Recursos:
-    ** [Nature of Code] (https://natureofcode/)
-    ** [TUTORIAL - Hour of coordenadas] (http://hello.processing.org/)
+Recursos:
+    * [Nature of Code] (https://natureofcode/)
+    * [TUTORIAL - Hour of coordenadas] (http://hello.processing.org/)
 
 
 
