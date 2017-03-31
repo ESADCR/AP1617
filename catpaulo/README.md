@@ -1,9 +1,5 @@
 # Catarina Paulo
-<<<<<<< HEAD
-#### Aula 2 - Exercício 1
-=======
 ### Aula 2 - Exercício 1
->>>>>>> 035da1cef455beb176541242531c8b6cf9e90ded
 
 **Número:** 3160074
 
@@ -13,24 +9,17 @@
 
 # Jared Tarbell
 
-<<<<<<< HEAD
-Ele é o criador de **Levitated.net**.
-=======
 Ele é o criador de **Levitated.net**. 
->>>>>>> 035da1cef455beb176541242531c8b6cf9e90ded
 Nascido em 1973 para William e Suzon Davis Tarbell na cidade de Albuquerque, no Novo México, foi introduzido pela primeira vez em computadores pessoais em 1987. O amor de Jared pela computação cresceu em relação direta ao poder de processamento dessas máquinas.
 
-Jared é bacharel, _pessoa que conclui um curso universitário_, em Ciência da Computação pela New Mexico State University. Ele está mais interessado na visualização de processos numéricos e nas propriedades de sistemas computacionais complexos.
+Jared é bacharel, pessoa que conclui um curso universitário, em Ciência da Computação pela New Mexico State University. Ele está mais interessado na visualização de processos numéricos e nas propriedades de sistemas computacionais complexos.
 
 Em junho de 2005, Jared co-fundou Etsy.com, um mercado on-line para comprar e vender produtos artesanais.
 
 Jared é um defensor de filosofias de código aberto, e como tal, distribui livremente seu trabalho em forma modificável em [Levitated.net](http://levitated.net/) e [Complexification.net](http://www.complexification.net/gallery/).
 
 
-<<<<<<< HEAD
 # [Trabalhos do Artista](http://directory.eliterature.org/works/)
-=======
-#### [Trabalhos do Artista](http://directory.eliterature.org/works/)
 
 ## SUBSTRATE
 
@@ -71,4 +60,3 @@ As linhas gostam de cristais crescem em um substrato computacional. Uma regra de
 
 0053 iterated substrate
 ![](http://www.complexification.net/gallery/machines/substrate/substrate0051.jpg) 
->>>>>>> 035da1cef455beb176541242531c8b6cf9e90ded
