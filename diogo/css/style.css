@@ -48,3 +48,9 @@ body {
 	color: #9fa6ad;
 	font-weight: bold;
 }
+
+#button_back {
+	position: fixed;
+	bottom: 50%;
+	left: 20PX;
+}
