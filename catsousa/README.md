@@ -1,3 +1,5 @@
+### **Dados Pessoais**
+
 **Nome:** Catarina Sousa
 
 **Número:** 3160581
@@ -7,7 +9,7 @@
 **Localidade:** Almada
 
 
-###Casey Reas
+### **Casey Reas**
 
 O norte americano Casey Reas (também conhecido como Casey Edwin Barker Reas ou C. E. B. Reas) nasceu em 1972 em Troy, Ohio. 
 
@@ -38,7 +40,7 @@ Alguns dos seus trabalhos:
 
 
 
-###"There is No Distance" 
+### **"There is No Distance"**
 
 
 Uma das mais recentes exposições de Casey Reas chama-se *"There is No Distance"* , que foi feita na galeria de bitforms em 2016.
@@ -49,14 +51,14 @@ Como as obras são instruídas e pré-programadas, elas são teoricamente reprod
 
 *"There Is No Distance"* também alude à síntese e compressão de espaço dentro dessas obras. Cada um é uma "natureza-morta" simulada: uma composição que desconstrói um sólido platônico, composto e apresentado como informação. O espaço dimensional é achatado de modo que múltiplos planos do mesmo sólido ocupem simultaneamente o campo visual. Não há nenhuma referência ao mundo natural, como o assunto deriva da geometria pura. "Still Life" engaja especificamente o interesse do artista no espaço entre a experiência subjetiva de estar no mundo versus a maneira objetiva e analítica como o mundo é medido, dividido e definido.
 
-![Still Life](/images/stilllife.png)
+![Still Life](images/stilllife.png)
 
 
-###Movimento
+### **Movimento**
 
 O movimento criado no exercício 4 é um movimento direccionado da esquerda para a direita. A sua velocidade é condicionada pelo rato, sendo esta mais rápida se o rato estiver mais à esquerda e menor se tiver mais à direita. O tamanho do objecto vai diminuindo ou crescendo de acordo com a direção em que estiver a ir. Quando o objecto chega ao máximo ou minimo do comprmimento da janela ele volta novamente para trás.
 
-[Movimento]()
+[Movimento](https://github.com/ESADCR/AP1617/blob/master/catsousa/ex4/movimento/index.html)
 
 
 

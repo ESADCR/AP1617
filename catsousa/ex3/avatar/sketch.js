@@ -1,9 +1,12 @@
 function setup() {
 
-createCanvas(800, 600);
-background(255);
+createCanvas(950, 820);
+background(200);
 strokeWeight(5);
 noFill()
+
+
+
 
 
 
@@ -17,7 +20,7 @@ bezier(405, 73, 600, 1, 590, 250, 540, 400);
 
 
 
-ellipse(width/2,height/4,150,150)
+ellipse(400, 150,150,150)
 ellipseMode(RADIUS);  
 fill(255);  
 ellipse(370, 125, 10, 10);  
@@ -39,6 +42,9 @@ arc(397, 190, 30, 30, -0.8, PI+QUARTER_PI, CHORD);
 
 
 triangle(400, 227, 500, 400, 295, 400);
+c = color(205, 92, 92);  
+fill(c);
+
 
 
 
@@ -73,6 +79,8 @@ line(430, 405, 430, 500)
 }
 
 function draw() {
+
+	
 
 
  

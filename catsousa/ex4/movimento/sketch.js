@@ -7,7 +7,7 @@ var direcao = 1;
 
 function setup() {
 
-createCanvas(1500, 1000);
+createCanvas(950, 820);
 background(255);
 
 fill(51);
@@ -19,7 +19,7 @@ fill(51);
 }
 
 function draw() {
-background(255)
+background(200)
 
 
 velocidade = map(mouseX,width,0,0,50);
@@ -34,14 +34,14 @@ ellipse(posicaoX,height/2,raio,raio);
 ellipseMode(CENTER);  
 
 ellipse(posicaoX,height/2, 100, 75);  
-c = color(165, 42, 42);  
+c = color(205, 92, 92);  
 fill(c);
 
 
 ellipse(posicaoX,height/2,raio,raio);
 
 
-line(posicaoX, height/2, 750, 75);
+line(posicaoX, height/2, 500, 60);
 stroke(110);
 
 
