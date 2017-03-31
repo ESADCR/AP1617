@@ -3,45 +3,22 @@ function setup() {
 }
 
 function draw() {
-  stroke(0,600,255);
-  strokeWeight(3);
-  /*olhos*/
-  line(300,100,150,100);
-  line(300,100,100,150);
-  strokeWeight(1)
-  fill(88, 131, 181)
-  ellipse(280, 75, 105, 60);
-
-  strokeWeight(3)
-  fill(25,25,25);
-  line(600,100,400,100);
-  line(400,100,640,150);
-  strokeWeight(1)
-  fill(88, 131, 181)
-  ellipse(425,75,105,60);
-
-/*boca*/
- strokeWeight(5)
-  line(260,250,310,250);
-  line(320,250,370,250);
-  line(380,250,430,250);
- strokeWeight(10)
-  line(320,300,370,300);
-
-/*nariz*/
+  stroke(255, 204, 0);
   strokeWeight(1);
-  fill(87, 130, 180);
-  triangle(300,200,400,200,350,150);
+  strokeWeight(1)
+  fill(88, 131, 181)
+ 
+  strokeWeight(1);
 
-/*contorno*/
+  
+  fill(255, 204, 0);
+  ellipse(300,200,200,200,200,150);
+  ellipse(200,100,100,100,100,50);
+  ellipse(500,200, 200, 200, 500); 
+  ellipse(600,100,100,100,200,200);
+  
   strokeWeight(10);
-  line(20,20,700,20);
-  strokeWeight(10);
-  line(20,20,170,400);
 
-  line(700,20,570,400)
-
-  line(170,400,220,350)
   line(220,350,270,400)
   line(270,400,320,350)
   line(320,350,370,400)
@@ -49,4 +26,8 @@ function draw() {
   line(420,350,470,400)
   line(470,400,520,350)
   line(520,350,570,400)
+
 }
+
+
+

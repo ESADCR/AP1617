@@ -1,20 +1,24 @@
-function setup(){
-	createCanvas(400 400);
-	angleMode(DEGREES);
+var x, y;
 
+function setup() {
+  createCanvas(1280, 720);
+
+
+  y = height;
 }
 
-function draw(){
-	background(51);
-	var x = 100;
-	var y = 100;
-	stroke(255);
-	strokeWeight(8);
-	point(x,y);
-	var angle = map(mouseX,0,width,-90,90);
-	var r = 100;
-	var dx = r * cos(angle);
-	var dy = r * sin(angle);
-	point(x+dx, y+dy);
-	line(x,y,x+dx, y+dy);
+function draw() {
+  background(200);
+  
+
+  stroke(50);
+  fill(0);
+  triangle(30, 75, 58, 20, y, 75);
+  
+  y = y - 2;
+  
+
+  if (y < 5) {
+    y = height;
+  }
 }
