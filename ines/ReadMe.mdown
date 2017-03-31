@@ -31,3 +31,7 @@ Alguns dos seus trabalhos:
 
 ![Ultraconcentrated](https://blog.adafruit.com/wp-content/uploads/2013/08/Screen-Shot-2013-08-29-at-11.02.41-AM.png)
 
+### Exercício 4 - Descrição Do Movimento
+
+* **Descrição:** O movimento criado no exercício 4 é um movimento direccionado tanto da esquerda para a direita como da direita para a esquerda e quando direcionamos o rato da esquerda para a direita o ecra fica branco gradualmente e da direita para a esquerda ocorre o oposto.
+
