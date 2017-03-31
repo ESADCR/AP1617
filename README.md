@@ -1,6 +1,20 @@
 # AP1617
 Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media Digitais 2016
 
+## *Aula 6* 2017.03.31
+
+* Discussão acerca de exercício 5 + Resultados;
+* Revisão Variáveis;
+* Introdução aos Arrays;
+* Revisão For;
+* While;
+* Física em Movimentos Básicos.
+
+### Exercicio Final (TPC) -
+Publicação até ao final da interrupção lectiva da Pascoa, altura em que fecho a avaliação.
+
+* Definição de um movimento tipo Pong (bola e raquete)
+
 ## *Aula 5* 2017.03.24
 
 * Discussão acerca de exercício 4 + Resultados;
