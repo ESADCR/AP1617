@@ -1,24 +1,26 @@
+
 var x, y;
 
 function setup() {
-  createCanvas(1280, 720);
-
-
+  createCanvas(720, 720);
+  x = width / 2;
   y = height;
 }
 
 function draw() {
   background(200);
   
-
+ 
   stroke(50);
-  fill(0);
-  triangle(30, 75, 58, 20, y, 75);
+  fill(100);
+  ellipse(x, y, 30, 30);
   
-  y = y - 5;
   
-
-  if (y < 10) {
+  x = x + random(-1, 1);
+ 
+  y = y - 1;
+  
+  if (y < 0) {
     y = height;
   }
 }
