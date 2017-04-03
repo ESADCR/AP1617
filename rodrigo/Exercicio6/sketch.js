@@ -1,26 +1,20 @@
-var circuloX;
-var xvel = 2;
+var bolaX = 300;
+var bolaY = 300;
+var velo = 3;
 
-function setup(){
-	size(640, 360);
-	circuloX = 0;
-
+function setup() {
+	createCanvas(600,600);
 }
 
-function draw(){
-	background(50);
-	fill(102);
-	stroke(255);
-	ellipse(circuloX, height/2, 32, 32);
-
-	circuloX = circuloX + xvel;
-
-	If(circuloX > width){
-		xvel = -10;
+function draw() {
+	background(51);
+	fill(255);
+	ellipse(bolaX, bolaY, 30, 30);
+	bolaX+=velo;
+	if(bolaX > 600 - 30 / 3) {
+		velo = -velo;
 	}
-
-	If(circuloX < 0){
-	xvel = 10;
-
+	if(bolaX < 0 + 30 / 3){
+		velo = -velo;
 	}
 }
