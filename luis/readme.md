@@ -4,4 +4,7 @@ Daniel Shiffman nasceu a 29 de Julho de 1973 em Baltimore, é programador, lider
 
 As suas primeiras obras de arte, Swarm 1 (2002), Swarm 2 (2002), and Swarm 3 (2004) explorava algoritmos para criar passaros baseados no modelo de Craig Reynolds’s Boids,  produzindo um efeito painterly orgânico em tempo real. Antes de seus interesses em open source e arte visual, Shiffman foi o diretor de produção da P73 Productions Inc., Uma pequena empresa de teatro de Nova York que ele começou com alguns amigos de Yale.
 
+#Exercicio 4 - Movimento
+
+O moviemnto que eu criei consiste em 3 circulos presos por um corda a outro circulo, que os faz saltar para a frente.
 *Luis Pinheiro | TESP - DMD*
