@@ -70,3 +70,27 @@ p{
     clear: both;
     display: block;
 }
+
+.botaoPC{
+    position: fixed;
+    top: 0;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: none;
+    color: #cccccc;
+    height: 50px;
+    width: 1200px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    border-bottom: 0.5px solid #cccccc;
+    clear: both;
+    display: block;
+    -webkit-transition:0.3s;
+    background-color: #111111;
+}
+
+.botaoPC:hover{
+    background-color: #cccccc;
+    color: black;
+    -webkit-transition:0.3s;
+}
