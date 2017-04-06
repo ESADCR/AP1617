@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>EX 03 - AVATAR</title>
+  <title>EX 05 - FOR</title>
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
@@ -33,7 +33,7 @@
 
 	  		<h4>PÁGINA DE ALGORITMIA E PROGRAMAÇÃO</h4>
 	  		<h1>Francisco Salgueira</h1>
-	  		<h3>"EX 03 - AVATAR"</h3>
+	  		<h3>"EX 05 - FOR"</h3>
 
 	  	</div>
 
@@ -45,50 +45,60 @@
 
 				<li><a href="../helloworld/helloworld.html">EX. 02 -"HELLO WORLD"</a></li>
 
-				<li><a href="#">EX. 03 - "AVATAR"</a></li>
+				<li><a href="../avatar/avatar.html">EX. 03 - "AVATAR"</a></li>
 
 				<li><a href="../movimento/movimento.html">EX. 04 - "MOVIMENTO"</a></li>
 
-				<li><a href="../for/for.html">EX. 05 - "FOR"</a></li>
+				<li><a href="#">EX. 05 - "FOR"</a></li>
 
 				<li><a href="../aula6/processingtop5js.html">EX. 06 - "PONG"</a></li>
+
 
 			</ul>
 
 		</nav>
 
 		<script type="text/javascript">
-			function setup() {
-			  createCanvas(900, 700);
-			  background(255, 204, 0);
+			
+			var num = 2000;
+			var range = 6;
 
+			var ax = [];
+			var ay = [];
+
+
+			function setup() {
+			  createCanvas(810, 500);
+			  for ( var i = 0; i < num; i++ ) {
+			    ax[i] = width / 2;
+			    ay[i] = height / 2;
+			  }
+			  frameRate(30);
 			}
 
 			function draw() {
-				background(255, 204, 0);
-				/*cara do boneco*/
-				fill('#fae');
-				ellipse(400,300, 200, 200);
-				/*olhos do boneco*/
-				ellipse(440, 280, 35, 40);
-				ellipse(360, 280, 35, 40);
-				/*boca do boneco*/
-				fill('#fae');
-				arc(400, 350, 70, 50, 6, 3,5);
-				/*iris dos olhos*/
-				fill(51);
-				ellipse(360, 280, 15, 20);
-				ellipse(440, 280, 15, 20);
-				/*boca*/
-				ellipse(400, 315, 15, 20);
-				/*tronco do boneco*/
-				fill('red');
-				ellipse(400, 550, 200, 300);
-				/*botões*/
-				fill(color(0, 0, 255));
-				ellipse(400, 490, 40, 40);
-				ellipse(400, 560, 40, 40);
-				ellipse(400, 635, 40, 40);
+			  background(51);
+
+			  // Shift all elements 1 place to the left
+			  for ( var i = 1; i < num; i++ ) {
+			    ax[i - 1] = ax[i];
+			    ay[i - 1] = ay[i];
+			  }
+
+			  // Put a new value at the end of the array
+			  ax[num - 1] += random(-range, range);
+			  ay[num - 1] += random(-range, range);
+
+			  // Constrain all points to the screen
+			  ax[num - 1] = constrain(ax[num - 1], 0, width);
+			  ay[num - 1] = constrain(ay[num - 1], 0, height);
+
+			  // Draw a line connecting the points
+			  for ( var j = 1; j < num; j++ ) {
+			    var val = j / num * 204.0 + 51;
+			    stroke(val);
+			    line(ax[j - 1], ay[j - 1], ax[j], ay[j]);
+			  }
 			}
 		</script>
 

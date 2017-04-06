@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>EX 03 - AVATAR</title>
+  <title>EX 04 - MOVIMENTO</title>
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
@@ -33,7 +33,7 @@
 
 	  		<h4>PÁGINA DE ALGORITMIA E PROGRAMAÇÃO</h4>
 	  		<h1>Francisco Salgueira</h1>
-	  		<h3>"EX 03 - AVATAR"</h3>
+	  		<h3>"EX 04 - MOVIMENTO"</h3>
 
 	  	</div>
 
@@ -45,7 +45,7 @@
 
 				<li><a href="../helloworld/helloworld.html">EX. 02 -"HELLO WORLD"</a></li>
 
-				<li><a href="#">EX. 03 - "AVATAR"</a></li>
+				<li><a href="../avatar/avatar.html">EX. 03 - "AVATAR"</a></li>
 
 				<li><a href="../movimento/movimento.html">EX. 04 - "MOVIMENTO"</a></li>
 
@@ -58,37 +58,34 @@
 		</nav>
 
 		<script type="text/javascript">
-			function setup() {
-			  createCanvas(900, 700);
-			  background(255, 204, 0);
+			// Where is the circle
+			var x, y;
 
+			function setup() {
+			  createCanvas(720, 400);
+			  // Starts in the middle
+			  x = width / 2;
+			  y = height;
 			}
 
 			function draw() {
-				background(255, 204, 0);
-				/*cara do boneco*/
-				fill('#fae');
-				ellipse(400,300, 200, 200);
-				/*olhos do boneco*/
-				ellipse(440, 280, 35, 40);
-				ellipse(360, 280, 35, 40);
-				/*boca do boneco*/
-				fill('#fae');
-				arc(400, 350, 70, 50, 6, 3,5);
-				/*iris dos olhos*/
-				fill(51);
-				ellipse(360, 280, 15, 20);
-				ellipse(440, 280, 15, 20);
-				/*boca*/
-				ellipse(400, 315, 15, 20);
-				/*tronco do boneco*/
-				fill('red');
-				ellipse(400, 550, 200, 300);
-				/*botões*/
-				fill(color(0, 0, 255));
-				ellipse(400, 490, 40, 40);
-				ellipse(400, 560, 40, 40);
-				ellipse(400, 635, 40, 40);
+			  background(200);
+			  
+			  // Draw a circle
+			  stroke(50);
+			  fill(100);
+			  ellipse(x, y, 24, 24);
+			  
+			  // Jiggling randomly on the horizontal axis
+			  x = x + random(-1, 1);
+
+			  // Moving up at a constant speed
+			  y = y - 1;
+			  
+			  // Reset to the bottom
+			  if (y < 1) {
+			    y = height;
+			  }
 			}
 		</script>
 

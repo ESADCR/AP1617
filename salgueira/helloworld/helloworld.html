@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>"HELLO WORLD" - FS</title>
+	<title>EX 02 - HELLO WORLD</title>
 
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 
@@ -21,9 +21,7 @@
   	<!-- uncomment lines below to include extra p5 libraries -->
   	<!--<script language="javascript" src="libraries/p5.dom.js"></script>-->
   	<!--<script language="javascript" src="libraries/p5.sound.js"></script>-->
-  
-	<script language="javascript" type="text/javascript" src="sketch.js"></script>
-	<!-- this line removes any default padding and style. you might only need one of these values set. -->
+
 
     <meta charset="utf-8" />
 
@@ -37,27 +35,67 @@
 
 	  		<h4>PÁGINA DE ALGORITMIA E PROGRAMAÇÃO</h4>
 	  		<h1>Francisco Salgueira</h1>
-	  		<h3>"HELLO WORLD"</h3>
+	  		<h3>"EX 02 - HELLO WORLD"</h3>
 
 	  	</div>
 
 		<nav>
 
 			<ul>
-				<li><a href="../index.html">HOME</a></li>
+				<li><a href="../index.html">INICIO</a></li>
 
-				<li><a href="#">"HELLO WORLD"</a></li>
+				<li><a href="#">EX. 02 -"HELLO WORLD"</a></li>
 
-				<li><a href="../README.md">"MARKDOWN"</a></li>
+				<li><a href="../avatar/avatar.html">EX. 03 - "AVATAR"</a></li>
 
-				<li><a href="../avatar/avatar.html">"AVATAR"</a></li>
+				<li><a href="../movimento/movimento.html">EX. 04 - "MOVIMENTO"</a></li>
 
+				<li><a href="../for/for.html">EX. 05 - "FOR"</a></li>
+
+				<li><a href="../aula6/processingtop5js.html">EX. 06 - "PONG"</a></li>
 			</ul>
 
 		</nav>
+		<script type="text/javascript">
+			function setup() {
+		 createCanvas(800, 500)
+		}
 
+		function draw() {
+		  background(102);
+		  
+		  push();
+		  translate(width*0.2, height*0.5);
+		  rotate(frameCount / 100);
+		  polygon(0, 0, 82, 12); 
+		  pop();
+		  
+		  push();
+		  translate(width*0.5, height*0.5);
+		  rotate(frameCount / 100);
+		  polygon(0, 0, 80, 8); 
+		  pop();
+		  
+		  push();
+		  translate(width*0.8, height*0.5);
+		  rotate(frameCount / 100);
+		  polygon(0, 0, 80, 4); 
+		  pop();
+		}
+		function polygon(x, y, radius, npoints) {
+		  var angle = TWO_PI / npoints;
+		  beginShape();
+		  for (var a = 0; a < TWO_PI; a += angle) {
+		    var sx = x + cos(a) * radius;
+		    var sy = y + sin(a) * radius;
+		    vertex(sx, sy);
+		  }
+		  endShape(CLOSE);
+		}
+		</script>
 	</div>
 
+	
 </body>
 
 </html>
