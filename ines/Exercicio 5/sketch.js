@@ -23,29 +23,29 @@ function draw() {
       stroke(30, 72, 72);
       fill(0);
     if (mouseX <= height/2) {
-      raio = map(mouseY,70,width,0,30);}
+      raio = map(mouseY,10,width,0,70);}
     else {
-      raio = map(mouseY,70,width,0,70);
+      raio = map(mouseY,10,width,0,10);
     }}
 
   else{
 
     fill(30,72,72);
       if (mouseY >= height/2) {
-        raio = map(mouseX,50,width,20,200);}
+        raio = map(mouseX,50,width,20,100);}
 
     else {
-    raio = map(mouseX,50,width,80,200);
+    raio = map(mouseX,50,width,80,20);
     }
   }
 
-  strokeWeight(0);
-  ellipse (width/4,height/4,raio,raio);
+  strokeWeight(2);
+  ellipse (width/2,height/2,raio,raio);
     batatas = int(raio);
     valor =  str(raio);
-      for (var i = 1 ; i <= 1 ; i++) {
-      for (var j = 1 ; j < 4 ; j++) {
-  ellipse(i*width/4,j*height/4,raio*(j+i),raio*(j+i));
+      for (var i = 1 ; i <= 3 ; i++) {
+      for (var j = 1 ; j < 3 ; j++) {
+  ellipse(i*width/4,j*height/5,raio*(j+i),raio*(j+i));
 
   }}
 }
