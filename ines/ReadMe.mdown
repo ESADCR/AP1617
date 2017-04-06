@@ -33,6 +33,6 @@ Alguns dos seus trabalhos:
 
 ### Exercício 4 - Descrição Do Movimento
 
-* **Descrição:** O movimento criado no exercício 4 é um movimento direccionado tanto da esquerda para a direita como da direita para a esquerda e quando direcionamos o rato da esquerda para a direita o ecra fica branco gradualmente e da direita para a esquerda ocorre o oposto.
-[Ver Movimento](Exercicio 4/index.html)
+* **Descrição:** O movimento criado no exercício 4 é um movimento direccionado tanto da esquerda para a direita como da direita para a esquerda e quando direcionamos o rato da esquerda para a direita o ecra fica branco gradualmente e da direita para a esquerda ocorre o oposto. [Ver Movimento](Exercicio 4/index.html)
+
 
