@@ -21,6 +21,7 @@ body {
   color: white;
   margin-top: 60px;
   font-size: 25px;
+  font-weight: lighter;
 }
 .mundo2{
   max-width: 1400px;
@@ -29,16 +30,18 @@ body {
 #imagem1 {
   width: 350px;
   height: 250px;
+  opacity: 0.2;
 }
 #imagem1:hover {
-  opacity: 0.3;
+  opacity: 1;
 }
 #imagem2 {
   width: 350px;
   height: 250px;
+  opacity: 0.2;
 }
 #imagem2:hover {
-  opacity: 0.3;
+  opacity: 1;
 }
 
 
