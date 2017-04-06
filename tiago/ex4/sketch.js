@@ -9,7 +9,7 @@ function setup() {
 }
 
 function draw() {
-  background(50,20,50);
+  background(51);
   fill(20,26,200);
   arc(movimentox, movimentoy, 80, 80, 0, pi+QUARTER_PI, PIE);
 
