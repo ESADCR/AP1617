@@ -5,23 +5,42 @@ body {
 
 .mundo {
   position: relative;
-
+  max-width: 1400px;
+  margin: auto;
+  height: 300px;
 }
 #header-container {
   width: 100%;
   background-color: black;
   position: absolute;
+  border-bottom: 5px solid #3C0A0A;
 }
 #header {
   text-align: center;
-  height: 200px;
+  height: 150px;
+  color: white;
+  margin-top: 60px;
+  font-size: 25px;
 }
-#img {
-  margin-top: 12px;
+.mundo2{
+  max-width: 1400px;
+  margin: auto;
 }
-#img:hover {
-  opacity: 0.6;
+#imagem1 {
+  width: 350px;
+  height: 250px;
 }
+#imagem1:hover {
+  opacity: 0.3;
+}
+#imagem2 {
+  width: 350px;
+  height: 250px;
+}
+#imagem2:hover {
+  opacity: 0.3;
+}
+
 
 
 
