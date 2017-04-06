@@ -11,7 +11,7 @@ function setup() {
 }
 
 function draw() {
-  background(204);
+  background(51);
   
   var numPoints = int(map(mouseX, 0, width, 6, 60));
   var angle = 0;

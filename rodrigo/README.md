@@ -44,31 +44,30 @@ Tomando o formato de um script, ele define uma interação entre três pessoas, 
 
 # **Exercício 4** 
 
-Para fazer este exercício utilizei este código:
+Para fazer este exercício utilizei o seguinte código:
+
 
 var x, y;
 
 function setup() {
-  createCanvas(1280, 720);
-
-
+  createCanvas(600, 600);
+  x = width / 2;
   y = height;
 }
 
 function draw() {
-  background(200);
+  background(51);
   
-
-  stroke(50);
-  fill(0);
-  triangle(30, 75, 58, 20, y, 75);
+ 
+  stroke(250);
+  fill(250);
+  ellipse(x, y, 30, 30);
   
-  y = y - 2;
+  y = y - 3;
   
-
-  if (y < 5) {
+  if (y < 0) {
     y = height;
   }
 }
 
-Este exercício baseia-se na criação de uma linha que se desloca até se transformar num triangulo do lado direito para o esquerdo.
+Este exercício baseia-se numa bola que se movimenta de baixo para cima ao longo do canvas.

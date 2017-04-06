@@ -29,7 +29,7 @@
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 body{
-  background-image: url(http://demodayminas.com/img/bg1.jpg);
+  background-image: url(https://newevolutiondesigns.com/images/freebies/nature-hd-background-4.jpg);
 }
 .container {
   position: relative;
@@ -178,7 +178,7 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-  display: inline-block;
+  display: block;
   height: 38px;
   padding: 0 30px;
   color: #555;

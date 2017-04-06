@@ -2,23 +2,20 @@
 var x, y;
 
 function setup() {
-  createCanvas(720, 720);
+  createCanvas(600, 600);
   x = width / 2;
   y = height;
 }
 
 function draw() {
-  background(200);
+  background(51);
   
  
-  stroke(50);
-  fill(100);
+  stroke(250);
+  fill(250);
   ellipse(x, y, 30, 30);
   
-  
-  x = x + random(-1, 1);
- 
-  y = y - 1;
+  y = y - 3;
   
   if (y < 0) {
     y = height;
