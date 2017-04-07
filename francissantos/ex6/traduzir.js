@@ -1,4 +1,4 @@
-var[] mensagens = {"batatas", "feijao", "maca", "acelga", "rucola"};
+var mensagens = ["batatas", "feijao", "maca", "acelga", "rucola"];
 var mensagemBon = " comida";
 var randomizeX;
 var randomizeY;
@@ -22,9 +22,9 @@ function draw(){
 
   background(0);
   counter = 0;
-  
+
   while(counter <= limite) {
-    
+
     for (var i = 0; i< mensagens.length; i++) {
       randomizeX = random(2*width/4);
       randomizeY = random(2*height/4);
