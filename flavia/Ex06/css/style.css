@@ -1,0 +1,31 @@
+.body{
+	width: 100%;
+	height: 550px;
+}
+.content{
+	height: 100px;
+	width: 400px;
+	margin: auto;
+	padding-left: 25px;
+	padding-top: 5px;
+}
+.botao{
+	padding-top: 10px;
+	padding-left: 35px;
+}
+
+.boton{
+	background-color:#698B69;
+	color: white;
+	font-size:15px;
+}
+script{
+	margin: auto;
+	padding-left: 1000px;
+}
+body {
+	padding: 0; 
+	margin: 0;
+	margin: auto;
+	text-align: center;
+}
