@@ -1,6 +1,13 @@
 # AP1617
 Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media Digitais 2016
 
+## *Aula 7* 2017.04.07
+
+* Discussão acerca de exercício 6+ Resultados;
+*
+* 
+
+
 ## *Aula 6* 2017.03.31
 
 * Discussão acerca de exercício 5 + Resultados;
