@@ -1,5 +1,6 @@
 body {
 	background-color: #191919;
+	font-family: Arial, "sans-serif";
 }
 
 .titulos {
@@ -50,7 +51,12 @@ body {
 }
 
 #button_back {
-	position: fixed;
-	bottom: 50%;
-	left: 20PX;
+	height: 35px;
+	background-color: #353535;
+	color:#9fa6ad;
+	border: none;
+}
+
+#button_back:hover {
+	color:black;
 }
