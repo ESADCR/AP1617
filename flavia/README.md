@@ -2,7 +2,7 @@
 ### Exercício 1
 
 **Número:** 3160577
-**Data de nascimento:** 25-02-98
+**Data de nascimento:** 13/10/93
 
 **e-mail:** flavialealphoto@gmail.com
 
