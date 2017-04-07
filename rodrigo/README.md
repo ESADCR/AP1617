@@ -70,4 +70,4 @@ function draw() {
   }
 }
 
-Este exercício baseia-se numa bola que se movimenta de baixo para cima ao longo do canvas. [Exercicio 4](file:///C:/Users/Rodrigo%20Santos/Documents/git/AP1617/rodrigo/Exercicio4/index.html)
+Este exercício baseia-se numa bola que se movimenta de baixo para cima ao longo do canvas. [Exercicio 4](Exercicio4/index.html)
