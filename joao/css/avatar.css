@@ -1,23 +1,19 @@
 .botao{
-	position: fixed;
+    position: fixed;
     top: 0px;
     text-align: center;
     line-height: 50px;
     text-decoration: none;
     color: white;
     height: 50px;
-    width: 1080px;
-    font-family: 'Genius', sans-serif;
-    font-size: 30px;
-    -webkit-transition: 0.3s;
+    width: 200px;
+    opacity: 0.2;
     border-bottom: 0.5px solid #cccccc;
     background-color: #111111;
 }
 
 .botao:hover{
-	background-color: #cccccc;
-	color: black;
-	-webkit-transition:0.3s;
+    opacity: 1;
 }
 
  #div{
