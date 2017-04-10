@@ -2,7 +2,7 @@ var x = 0;
 var offset = 0;
 
 function setup() {
-  createCanvas(1263, 298);
+  createCanvas(100, 600);
   background(204);
 }
 
