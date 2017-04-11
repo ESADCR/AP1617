@@ -53,7 +53,7 @@
 
 
 </head>   
-<body>
+<body  style="background-color:#F5FFFA;">
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -62,11 +62,11 @@
       <div class="one-half column" style="margin-top: 10%">
 
       <canvas id="defaultCanvas"> </canvas>
-       <style>
-    body {padding: 0px; margin: 0px;}
-    canvas {position: fixed; top: 0px; left: 0px;  } 
-    #contenu {position: relative; } 
-  </style>
+        <style>
+          body {padding: 0px; margin: 0px;}
+          canvas {position: fixed; top: 0px; left: 0px; z-index: -1; } 
+          #contenu {position: relative; } 
+        </style>
 
 
 
@@ -78,9 +78,7 @@
             <a class="button button-primary" id="botaoVoltar" href="../index.html">Voltar</a>
           </div>
 
-          <div>
-            <a class="button button-primary" id="botaoVoltar" href="../index.html"> <img alt="homePag" id="home" src="./images/home.png"> </a>
-          </div>
+        
 
           <div class="botao a">
             <a class="button button-primary" href="./pagEX2.html">Exercício 2</a>
