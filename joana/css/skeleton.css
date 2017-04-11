@@ -433,6 +433,14 @@ there.
   text-align: center;
 }
 
+#clica{
+  font-weight: bold;
+  font-family: Courier;
+  color: black;
+  font-size: 14px;
+
+}
+
 #geralBotoes{
   /*background-color: blue;*/
 }
