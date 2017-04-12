@@ -4,8 +4,8 @@ Trabalhos de Algoritmia e Programação dos Alunos do Tesp de Design para Media 
 ## *Aula 7* 2017.04.07
 
 * Discussão acerca de exercício 6+ Resultados;
+* Revisão
 *
-* 
 
 
 ## *Aula 6* 2017.03.31
