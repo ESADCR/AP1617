@@ -1,5 +1,5 @@
 
-var mensagens = {"batatas", "feijao", "maca", "acelga", "rucola"};
+var mensagens = ["batatas", "feijao", "maca", "acelga", "rucola"];
 
 var mensagemBon = " comida";
 
