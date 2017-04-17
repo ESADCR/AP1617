@@ -1,0 +1,22 @@
+.botao{
+	position: fixed;
+    top: 0px;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: none;
+    color: white;
+    height: 50px;
+    width: 200px;
+    opacity: 0.2;
+    border-bottom: 0.5px solid #cccccc;
+    background-color: #111111;
+}
+
+.botao:hover{
+    opacity: 1;
+}
+
+ #div{
+    margin-top: 100px;
+    margin-left: 100px;
+}
