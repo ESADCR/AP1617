@@ -16,7 +16,16 @@ body{
 .div-left-inside{
 	background: rgba(255,255,255,0.5);
 	height: 550px;
-    width: 350px;
+    margin-left: 5px;
+    padding: 40px 40px;
+    margin-top: 25px;
+    border-radius: 25px;
+}
+
+.div-right-inside{
+    background: rgba(255,255,255,0.5);
+    height: 550px;
+    width: 665px;
     margin-left: 5px;
     padding: 40px 40px;
     margin-top: 25px;
