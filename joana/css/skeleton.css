@@ -30,6 +30,8 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
   position: relative;
+  /*background-color: #F8F8FF;
+  opacity: 0.3;*/
   width: 200%;
   max-width: 1010px;
   margin: auto;
@@ -424,17 +426,41 @@ there.
 
 /*___________________Joana Code___________________*/
 
-
+ 
 .cabeçalho{ 
   height: 95px;
   margin-top: -30px;
   text-align: center;
 }
 
+#clica{
+  font-weight: bold;
+  font-family: Courier;
+  color: black;
+  font-size: 14px;
+
+}
+
 #geralBotoes{
   /*background-color: blue;*/
 }
+
+
+#botaoVoltar{
+  /*background-color: #EEE9E9;*/
+  margin-left: 150px;
+  height: 40px;
+
+}
+
+#home{
+    width: 30px;
+    height: 36px;
+}
+
 .botao{
   /*background-color: #EEE9E9;*/
+  width: 1000px;
   height: 120px;
 }
+

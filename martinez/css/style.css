@@ -1,5 +1,5 @@
 body{
-	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/1c/f3/58/1cf3580d6d9de6f7fb9f919585a28fc6.jpg);
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/1c/f3/58/1cf3580d6d9de6f7fb9f919585a28fc6.jpg);
     background-size: 100%;
 }
 
@@ -16,7 +16,15 @@ body{
 .div-left-inside{
 	background: rgba(255,255,255,0.5);
 	height: 550px;
-    width: 350px;
+    margin-left: 5px;
+    padding: 40px 40px;
+    margin-top: 25px;
+    border-radius: 25px;
+}
+
+.div-right-inside{
+    background: rgba(255,255,255,0.5);
+    height: 550px;
     margin-left: 5px;
     padding: 40px 40px;
     margin-top: 25px;
@@ -60,6 +68,48 @@ body{
     margin-top: 25px;
     border-radius: 25px;
 }
+
+/** * * * * * * Hello Word * * * * * * **/
+
+.main-div{
+    margin-top: 40px;
+}
+
+.turn-back-button{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-family: 'Muli', sans-serif;
+    font-size: 23px;
+    -webkit-transition: 0.3s;
+    float: right;
+    margin-right: 120px;
+    background-color: lightpink;
+    height: 32px;
+    width: 80px;
+    border: solid black;
+    border-radius: 13px;
+}
+
+.turn-back-button:hover{
+    background-color: #000;
+    color: lightpink;
+    -webkit-transition:0.3s;
+}
+
+.div-text{
+    background: rgba(255,255,255,0.5);
+    height: 550px;
+    margin-left: 5px;
+    margin-top: 25px;
+    border-radius: 25px;
+}
+}
+
+
+
+
+
 
 
 

@@ -1,5 +1,6 @@
 body {
-   font-family: "Verdana"
+   font-family: "Verdana";
+   margin: inherit;
 }
 
 
@@ -7,13 +8,12 @@ body {
   position: relative;
   max-width: 1400px;
   margin: auto;
-  height: 300px;
+  height: 250px;
 }
 #header-container {
   width: 100%;
   background-color: black;
   position: absolute;
-  border-bottom: 5px solid #3C0A0A;
 }
 #header {
   text-align: center;
@@ -27,23 +27,140 @@ body {
   max-width: 1400px;
   margin: auto;
 }
+.link {
+  text-decoration: none;
+}
 #imagem1 {
-  width: 350px;
+  width: 300px;
   height: 250px;
-  opacity: 0.2;
+  opacity: 0;
+  -webkit-transition: 0.5s;
 }
 #imagem1:hover {
   opacity: 1;
+  -webkit-transition: 0.5s;
 }
 #imagem2 {
-  width: 350px;
+  width: 300px;
   height: 250px;
-  opacity: 0.2;
+  opacity: 0;
+  -webkit-transition: 0.5s;
 }
 #imagem2:hover {
   opacity: 1;
+  -webkit-transition: 0.5s;
 }
-
+#imagem3 {
+  width: 300px;
+  height: 250px;
+  opacity: 0;
+  -webkit-transition: 0.5s;
+}
+#imagem3:hover {
+  opacity: 1;
+  -webkit-transition: 0.5s;
+}
+#imagem4 {
+  width: 300px;
+  height: 250px;
+  opacity: 0;
+  -webkit-transition: 0.5s;
+}
+#imagem4:hover {
+  opacity: 1;
+  -webkit-transition: 0.5s;
+}
+#margem{
+  margin:auto;
+  text-align: center;
+  text-decoration: none;
+  border-left: 10px solid cornflowerblue;
+  border-right: 10px solid cornflowerblue;
+}
+.caption {
+  max-width: 1400px;
+  margin: auto;
+}
+.caption ul {
+  list-style-type: none;
+  height: 30px;
+  text-align: center;
+  color: white;
+}
+.caption li {
+  float: left;
+}
+.caption ul li {
+  padding: 10px 67px 10px 100px;
+}
+#margem2{
+  margin-top: 100px;
+  text-align: center;
+  text-decoration: none;
+  border-left: 10px solid cornflowerblue;
+  border-right: 10px solid cornflowerblue;
+}
+#imagem5 {
+  width: 300px;
+  height: 250px;
+  opacity: 0;
+  -webkit-transition: 0.5s;
+}
+#imagem5:hover {
+  opacity: 1;
+  -webkit-transition: 0.5s;
+}
+#imagem6 {
+  width: 300px;
+  height: 250px;
+  opacity: 0;
+  -webkit-transition: 0.5s;
+}
+#imagem6:hover {
+  opacity: 1;
+  -webkit-transition: 0.5s;
+}
+#imagem7 {
+  width: 300px;
+  height: 250px;
+  opacity: 0;
+  -webkit-transition: 0.5s;
+}
+#imagem7:hover {
+  opacity: 1;
+  -webkit-transition: 0.5s;
+}
+#imagem8 {
+  width: 300px;
+  height: 250px;
+  opacity: 0;
+  -webkit-transition: 0.5s;
+}
+#imagem8:hover {
+  opacity: 1;
+  -webkit-transition: 0.5s;
+}
+.caption2 {
+  max-width: 1400px;
+  margin: auto;
+}
+.caption2 ul {
+  list-style-type: none;
+  height: 30px;
+  text-align: center;
+  color: white;
+}
+.caption2 li {
+  float: left;
+}
+.caption2 ul li {
+  padding: 10px 67px 10px 100px;
+}
+footer {
+  background-color: #1E1A1A;
+  padding: 20px;
+  margin-top: 100px;
+  opacity: 0.5;
 
 
 

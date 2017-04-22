@@ -37,3 +37,5 @@ Alguns trabalhos de Casey: http://reas.com/
 
 
 ### Exercicio 4 - Movimento
+
+O movimeto da elipse inicia-se na horizontal, da esquerda para a direita. Ao pressionar o botão do rato, o sentido muda para a vertical, de cima para baixo. À medida que o rato se afasta do topo da página, a velocidade aumenta.
