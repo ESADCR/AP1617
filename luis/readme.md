@@ -16,9 +16,13 @@ O movimento que eu criei consiste em 3 circulos presos por um corda a outro circ
 
 No exercicio 5 tenho uma especie de minhoca que se mexe a partir do movimento do rato, usando para isso um ciclo for.
 
-# Exercicio 6 - Pong
+# Exercicio 6 - Palavras
 
-No exercicio 6 meti uma bola a andar de um lado para o outro na horizontal, batendo numa parede criada e no inicio da pagina.
+No exercicio 6 podemos ver palavras relacionadas de comida a aparecerem no ecra.
+
+# Exercicio Final
+
+No exercicio 6 meti uma bola a andar de um lado para o outro na horizontal, batendo em 2 paredes criadas.
 
 
 
